@@ -1,0 +1,2137 @@
+{
+  "metadata": {
+    "created_at": "2025-06-13T00:28:36.987410",
+    "updated_at": "2025-06-13T00:28:36.987410",
+    "total_tracks": 1550,
+    "tracks_with_ids": 1263,
+    "tracks_without_ids": 287
+  },
+  "tracks": [
+    {
+      "name": "MIL VIDAS",
+      "artists": [
+        "Mora",
+        "Ryan Castro"
+      ],
+      "spotify_id": "3bn6CxnWxuvYZz3i9vE2dc"
+    },
+    {
+      "name": "Por Fin Te Encontr\u00e9",
+      "artists": [
+        "Cali Y El Dandee",
+        "Juan Mag\u00e1n",
+        "Sebastian Yatra"
+      ],
+      "spotify_id": "0XHfykRGZrVD3umBCtfvAv"
+    },
+    {
+      "name": "Quiero Besarte la Boca",
+      "artists": [
+        "LA NUEVA ESCUELA"
+      ],
+      "spotify_id": "5aPEnoEm93k5vytdyytOlm"
+    },
+    {
+      "name": "Rolex",
+      "artists": [
+        "Camilo",
+        "Mau y Ricky"
+      ],
+      "spotify_id": "5hXlAWrc8L8hYhxUnXlqFf"
+    },
+    {
+      "name": "Just the Way You Are",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "spotify_id": "47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "name": "Me Lo Cre\u00ed",
+      "artists": [
+        "Dayanara"
+      ],
+      "spotify_id": "2QTcloeFHkbUJiX8vNHocw"
+    },
+    {
+      "name": "I Think They Call This Love",
+      "artists": [
+        "Elliot James Reay"
+      ],
+      "spotify_id": "6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "name": "M\u00edrame",
+      "artists": [
+        "Blessd",
+        "Ovy On The Drums"
+      ],
+      "spotify_id": "2btNsI4OvcVl7SAHQQDHFB"
+    },
+    {
+      "name": "Cuando Te Vi | CROSSOVER #5",
+      "artists": [
+        "Big One",
+        "Maria Becerra",
+        "Trueno"
+      ],
+      "spotify_id": "5OwAhFlvFZ4ZdGDfroYgAm"
+    },
+    {
+      "name": "Perfecta",
+      "artists": [
+        "Rusherking",
+        "Dread Mar I"
+      ],
+      "spotify_id": "5rGorQ0R06XveTJXMd3QRi"
+    },
+    {
+      "name": "Amor Prohibido",
+      "artists": [
+        "SONANDO"
+      ],
+      "spotify_id": "3SShVdYwlQ8WVo6QlH7keX"
+    },
+    {
+      "name": "La Misi\u00f3n",
+      "artists": [
+        "Piso 21",
+        "Wisin"
+      ],
+      "spotify_id": "64fxxCNA8oQxNBGKyqranN"
+    },
+    {
+      "name": "Traductor",
+      "artists": [
+        "Myke Towers",
+        "Tiago PZK"
+      ],
+      "spotify_id": "5qILAMiqeoJIcVGpHqnYhJ"
+    },
+    {
+      "name": "VOLVERTE A VER",
+      "artists": [
+        "Rohan",
+        "Room60"
+      ],
+      "spotify_id": "7FIs2dSNRHDCJaDHccroPM"
+    },
+    {
+      "name": "Una Rosa",
+      "artists": [
+        "3AM"
+      ],
+      "spotify_id": "51yg9o7d7GTpseFip7CGeR"
+    },
+    {
+      "name": "Zun Da Da versi\u00f3n solo - Ac\u00fastico",
+      "artists": [
+        "Ferxxo"
+      ],
+      "spotify_id": "375K8Nlf3iU6JeFJlaIo03"
+    },
+    {
+      "name": "Bronceado - Remix",
+      "artists": [
+        "Marama",
+        "MYA",
+        "Robleis"
+      ],
+      "spotify_id": "1xxtsuafCIJm7WPQ1tdDDi"
+    },
+    {
+      "name": "Antes de Ti",
+      "artists": [
+        "Rusherking",
+        "Maria Becerra"
+      ],
+      "spotify_id": "23R68uWGdp07SwQdK8mWzI"
+    },
+    {
+      "name": "Pa Los Gustos Los Colores",
+      "artists": [
+        "Javiielo"
+      ],
+      "spotify_id": "6Bd9rs5gv25asdPDRog3ce"
+    },
+    {
+      "name": "El Plan",
+      "artists": [
+        "Rusherking",
+        "L-Gante",
+        "Emilia"
+      ],
+      "spotify_id": "7kwWynCThNe0IhUTxjRxtW"
+    },
+    {
+      "name": "Qu\u00e9 Le Pasa a Mi Ex - Remix",
+      "artists": [
+        "Andy Rivera",
+        "Feid"
+      ],
+      "spotify_id": "1Kkx5Ux2mJPzGFc1GMDXdV"
+    },
+    {
+      "name": "Primera Cita",
+      "artists": [
+        "Car\u00edn Le\u00f3n"
+      ],
+      "spotify_id": "4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "name": "M.A (Mejores Amigos)",
+      "artists": [
+        "BM",
+        "Phontana"
+      ],
+      "spotify_id": "1eIDsKCLwZF6CJK8pOgHX5"
+    },
+    {
+      "name": "Me Gustas",
+      "artists": [
+        "Jisa"
+      ],
+      "spotify_id": "6ORIeEUoviLVAC7lfNJfbd"
+    },
+    {
+      "name": "Ni Me Debes Ni Te Debo",
+      "artists": [
+        "Car\u00edn Le\u00f3n",
+        "Camilo"
+      ],
+      "spotify_id": "3Zin1vaMx7PjFWIOBTE4FM"
+    },
+    {
+      "name": "Un Beso Y Una Flor",
+      "artists": [
+        "Nino Bravo"
+      ],
+      "spotify_id": "5IU4JO2cpa0wPK8oQWFfCr"
+    },
+    {
+      "name": "Como Lo Hacia Yo (Official Remix)",
+      "artists": [
+        "Ken-Y",
+        "Nicky Jam",
+        "Zion",
+        "Arc\u00e1ngel"
+      ],
+      "spotify_id": "2d1Bkco7bbFw050xDvZqQ1"
+    },
+    {
+      "name": "Cae el Sol",
+      "artists": [
+        "Airbag"
+      ],
+      "spotify_id": "2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "name": "Lealtad",
+      "artists": [
+        "Dave Bola\u00f1o"
+      ],
+      "spotify_id": "00upaXo7vjKRiqKZXeTJgK"
+    },
+    {
+      "name": "Por el Resto de Tu Vida",
+      "artists": [
+        "Christian Nodal",
+        "TINI"
+      ],
+      "spotify_id": "40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "name": "Coro de Amor",
+      "artists": [
+        "Emilio",
+        "Karol Sevilla"
+      ],
+      "spotify_id": "3n87suj86yX3ywoUBZUFyy"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Miley Cyrus"
+      ],
+      "spotify_id": "0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "name": "Period (From \"Full Metal Alchemist\")",
+      "artists": [
+        "Studio Yuraki"
+      ],
+      "spotify_id": "5DHof7FIJHeFpJgSOpbpZI"
+    },
+    {
+      "name": "Gotitas De Amor",
+      "artists": [
+        "Yan Collazo",
+        "Chiquito Team Band"
+      ],
+      "spotify_id": "4NRDTcDgY6MFE0YvJopyrt"
+    },
+    {
+      "name": "Give Me A Kiss",
+      "artists": [
+        "Crash Adams"
+      ],
+      "spotify_id": "0ocf3HwWhrXtA8r63Vcd2h"
+    },
+    {
+      "name": "Volver a Verte (feat. Cali y El Dandee)",
+      "artists": [
+        "Fonseca",
+        "Cali Y El Dandee"
+      ],
+      "spotify_id": "5AEe2QNDyG1u0bujk7LrgQ"
+    },
+    {
+      "name": "Ac\u00e9rcate",
+      "artists": [
+        "TINI"
+      ],
+      "spotify_id": "0iMa8G7ODf8szyruUYtnz1"
+    },
+    {
+      "name": "Si me dices que s\u00ed (feat. Nicky Jam)",
+      "artists": [
+        "Cosculluela",
+        "Nicky Jam"
+      ],
+      "spotify_id": "3noN1TxpjbjjmKqssghvg8"
+    },
+    {
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "artists": [
+        "Camila Cabello",
+        "Ed Sheeran"
+      ],
+      "spotify_id": "0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "name": "Un Beso en Madrid",
+      "artists": [
+        "TINI",
+        "Alejandro Sanz"
+      ],
+      "spotify_id": "0KTwYI4vwidX9qip7ViAEQ"
+    },
+    {
+      "name": "Malibu",
+      "artists": [
+        "Cali Y El Dandee"
+      ],
+      "spotify_id": "1An91dzcVTS96yP3a7F495"
+    },
+    {
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "artists": [
+        "Ed Sheeran",
+        "Taylor Swift"
+      ],
+      "spotify_id": "6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "name": "Let's Fall in Love for the Night",
+      "artists": [
+        "FINNEAS"
+      ],
+      "spotify_id": "7kQkmyoHCEqwe7QwDbkSXM"
+    },
+    {
+      "name": "Insta (Remix)",
+      "artists": [
+        "Lauta",
+        "MYA",
+        "Rombai"
+      ],
+      "spotify_id": "0gxhUyP2209L93dulybrne"
+    },
+    {
+      "name": "Tu H\u00e9roe",
+      "artists": [
+        "Piso 21"
+      ],
+      "spotify_id": "5ID9OcOU7EwpGYDKzyQHPg"
+    },
+    {
+      "name": "Te Quiero Baby (I Love You Baby)",
+      "artists": [
+        "Chesca",
+        "Pitbull",
+        "Frankie Valli"
+      ],
+      "spotify_id": "4oANXev8qjD156oq0E2ToD"
+    },
+    {
+      "name": "TEL\u00c9FONO - Remix",
+      "artists": [
+        "Aitana",
+        "Lele Pons"
+      ],
+      "spotify_id": "4u7RRp96UNZUE2mkOvGzfh"
+    },
+    {
+      "name": "Si Yo Estoy Loco",
+      "artists": [
+        "Sanluis",
+        "Fonseca"
+      ],
+      "spotify_id": "4IK4EszBJ2wzMuwNGh1YzF"
+    },
+    {
+      "name": "Flores",
+      "artists": [
+        "TINI"
+      ],
+      "spotify_id": "4WjtEdWL0JnxlWo80LpTr6"
+    },
+    {
+      "name": "Bad Habits",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "spotify_id": "6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "name": "Me Haces Falta",
+      "artists": [
+        "Andy Rivera"
+      ],
+      "spotify_id": "0En2Bf2GLo9E8M2fXqY3oo"
+    },
+    {
+      "name": "Millones",
+      "artists": [
+        "Camilo"
+      ],
+      "spotify_id": "3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "artists": [
+        "Selena Gomez",
+        "Rauw Alejandro"
+      ],
+      "spotify_id": "0D75ciM842cdUMKSMfAR9y"
+    },
+    {
+      "name": "Memories",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "1YekgZi6E9eInBG3O5Fw66"
+    },
+    {
+      "name": "You're the One",
+      "artists": [
+        "The Vogues"
+      ],
+      "spotify_id": "29Xdknl9fhRsV0oOYyQOKy"
+    },
+    {
+      "name": "Happier",
+      "artists": [
+        "Marshmello",
+        "Bastille"
+      ],
+      "spotify_id": "2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "name": "Camino a Tu Casa",
+      "artists": [
+        "Fonseca",
+        "Andr\u00e9s Cepeda"
+      ],
+      "spotify_id": "393V5KfcKuYdlQ5BvS97Zm"
+    },
+    {
+      "name": "Primer Avi\u00f3n",
+      "artists": [
+        "Matisse",
+        "Camilo"
+      ],
+      "spotify_id": "1CaBwYdWhxUeE4j3w0WqbL"
+    },
+    {
+      "name": "Raindrops Keep Fallin' On My Head",
+      "artists": [
+        "B.J. Thomas"
+      ],
+      "spotify_id": "0zRtBDhwtIFTfoK2HuURbM"
+    },
+    {
+      "name": "Desesperado (Voy A Tomar)",
+      "artists": [
+        "Joey Montana",
+        "Greeicy",
+        "Cali Y El Dandee"
+      ],
+      "spotify_id": "4tvtsvgrIksr7iqzPeADXB"
+    },
+    {
+      "name": "Dices Que Te Vas",
+      "artists": [
+        "KAROL G",
+        "Anuel AA"
+      ],
+      "spotify_id": "0MS2BebzCJyJ0o61M0ze8x"
+    },
+    {
+      "name": "Qui\u00e9n Dir\u00eda",
+      "artists": [
+        "Johan Sotelo"
+      ],
+      "spotify_id": "4N8442HkjSJAbohpXWuVAW"
+    },
+    {
+      "name": "Te Hubieras Ido Antes",
+      "artists": [
+        "Reik"
+      ],
+      "spotify_id": "5QjZoU6nJltuKbBkwCog9M"
+    },
+    {
+      "name": "Patience",
+      "artists": [
+        "Guns N' Roses"
+      ],
+      "spotify_id": "7D5n2kpYH2WSqIyEO9MeXf"
+    },
+    {
+      "name": "Vuelve",
+      "artists": [
+        "Sebastian Yatra",
+        "Beret"
+      ],
+      "spotify_id": "0qu3nUjo4f2Sw4MinGcrQB"
+    },
+    {
+      "name": "Por Que Te Vas",
+      "artists": [
+        "TINI",
+        "Cali Y El Dandee"
+      ],
+      "spotify_id": "70c9sdkTnDiehSDOCxCnDc"
+    },
+    {
+      "name": "Pero Te Conoc\u00ed",
+      "artists": [
+        "Reik"
+      ],
+      "spotify_id": "3GoZFM9oqXO68BQXBA1Czv"
+    },
+    {
+      "name": "Necesito un Amor",
+      "artists": [
+        "Hnos Yaipen"
+      ],
+      "spotify_id": "2lo3RrKfwqrIQfD6JBJyfX"
+    },
+    {
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "artists": [
+        "Danna Paola"
+      ],
+      "spotify_id": "0XqrUP3FtwDgWHBQQHYxWO"
+    },
+    {
+      "name": "Photograph",
+      "artists": [
+        "Alex Goot",
+        "ATC"
+      ],
+      "spotify_id": "1D4EuJWx7f2W7RgXO149zw"
+    },
+    {
+      "name": "Abr\u00e1zame",
+      "artists": [
+        "Iv\u00e1n Piana"
+      ],
+      "spotify_id": "10z3pdFW8RmmuZfm0lxfcL"
+    },
+    {
+      "name": "Mi vida no tiene sentido",
+      "artists": [
+        "Hey Hey Camaguey"
+      ],
+      "spotify_id": "4GDCRCemSzCi2y6JaOxJR4"
+    },
+    {
+      "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
+      "artists": [
+        "Kid Cudi",
+        "MGMT",
+        "Ratatat",
+        "Steve Aoki"
+      ],
+      "spotify_id": "5PX4uS1LqlWEPL69phPVQQ"
+    },
+    {
+      "name": "D\u00f3nde Est\u00e1 el Amor",
+      "artists": [
+        "Afrodisiaco"
+      ],
+      "spotify_id": "5GnRzPYfKsnrvnxVDT8OUJ"
+    },
+    {
+      "name": "Como Te Puedo Entender",
+      "artists": [
+        "Fonseca",
+        "Andr\u00e9s Cepeda"
+      ],
+      "spotify_id": "6bM1DmAt02lFECMQLgA2s4"
+    },
+    {
+      "name": "Los Malaventurados No Lloran",
+      "artists": [
+        "PXNDX"
+      ],
+      "spotify_id": "66PRDvzBHhbcdbc4T4mrZY"
+    },
+    {
+      "name": "I Wanna Get Lost With You",
+      "artists": [
+        "Stereophonics"
+      ],
+      "spotify_id": "16GrAa93uAWWSgzev3Eyi3"
+    },
+    {
+      "name": "Spirits",
+      "artists": [
+        "We The Lion",
+        "Ezio Oliva",
+        "Nico Saba",
+        "Donnie Yaip\u00e9n",
+        "Mayra Go\u00f1i",
+        "Stephanie Cayo",
+        "Joaqu\u00edn Arambur\u00fa",
+        "Susana Baca",
+        "Gisella Ponce de Le\u00f3n",
+        "Renata Flores"
+      ],
+      "spotify_id": "6SZolMIWmbbaGzmf8adxN2"
+    },
+    {
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "artists": [
+        "Fonseca",
+        "Andr\u00e9s Cepeda"
+      ],
+      "spotify_id": "30gVDzAZXL7WFiKc08LIR4"
+    },
+    {
+      "name": "Lost Stars",
+      "artists": [
+        "Adam Levine"
+      ],
+      "spotify_id": "1ejtHfSXQwvaAU7F82FXww"
+    },
+    {
+      "name": "Lay Me Down",
+      "artists": [
+        "Avicii"
+      ],
+      "spotify_id": "5iKOpf0SZDSGkJRhkwgSrl"
+    },
+    {
+      "name": "Mi Vuelo",
+      "artists": [
+        "Fonseca",
+        "Andr\u00e9s Cepeda"
+      ],
+      "spotify_id": "2FhJ1jNfLFY3sEmrEBgH1q"
+    },
+    {
+      "name": "Te Quiero M\u00e1s",
+      "artists": [
+        "TINI",
+        "Nacho"
+      ],
+      "spotify_id": "6fUxjpkdzip1MObtLaSgKQ"
+    },
+    {
+      "name": "22",
+      "artists": [
+        "TINI",
+        "Greeicy"
+      ],
+      "spotify_id": "07L6tEZIfCX3GZAWCpGj0e"
+    },
+    {
+      "name": "Fresa",
+      "artists": [
+        "TINI",
+        "Lalo Ebratt"
+      ],
+      "spotify_id": "4BCPItsB94KDLuERZT3aNM"
+    },
+    {
+      "name": "Su\u00e9ltate El Pelo",
+      "artists": [
+        "TINI"
+      ],
+      "spotify_id": "7dK9ncfHtROhbYCtElBqfU"
+    },
+    {
+      "name": "Diciembre",
+      "artists": [
+        "TINI"
+      ],
+      "spotify_id": "3rwWcmmKQsXWfEfKzi4X2S"
+    },
+    {
+      "name": "Recuerdo",
+      "artists": [
+        "TINI",
+        "Mau y Ricky"
+      ],
+      "spotify_id": "3DjInVTE03icrWsq2UZV9n"
+    },
+    {
+      "name": "Perdiendo la Cabeza",
+      "artists": [
+        "Carlos Rivera",
+        "Becky G",
+        "Pedro Cap\u00f3"
+      ],
+      "spotify_id": "2GTCK8zYHwkcu0i0jtKjFz"
+    },
+    {
+      "name": "Quiero Volver",
+      "artists": [
+        "TINI",
+        "Sebastian Yatra"
+      ],
+      "spotify_id": "1jcAZRfufvi67KWnwRmizE"
+    },
+    {
+      "name": "Consejo de Amor",
+      "artists": [
+        "TINI",
+        "Morat"
+      ],
+      "spotify_id": "3za3hxbolwmy9AeUpWzuRE"
+    },
+    {
+      "name": "Can't Help Falling in Love",
+      "artists": [
+        "Boyce Avenue"
+      ],
+      "spotify_id": "2lBarFAEBfCFBiQ10iE12M"
+    },
+    {
+      "name": "If I Let You Go - Radio Edit",
+      "artists": [
+        "Westlife"
+      ],
+      "spotify_id": "5giCRvTkp5GV5UIAORAOof"
+    },
+    {
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "artists": [
+        "Carlos Baute",
+        "Marta S\u00e1nchez"
+      ],
+      "spotify_id": "3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "name": "Tanto",
+      "artists": [
+        "Jesse & Joy",
+        "Luis Fonsi"
+      ],
+      "spotify_id": "3bCuNSiaBHqxdevMYEnGpe"
+    },
+    {
+      "name": "Esa S\u00ed Es Una Mujer",
+      "artists": [
+        "Christian Meier"
+      ],
+      "spotify_id": "5zruPoX0RLhXOIJmin8Odx"
+    },
+    {
+      "name": "Hold My Hand (with Akon)",
+      "artists": [
+        "Michael Jackson",
+        "Akon"
+      ],
+      "spotify_id": "0pCyoA5o2uxUwIovECCziF"
+    },
+    {
+      "name": "Coraz\u00f3n De Hojalata",
+      "artists": [
+        "Camilo Echeverry"
+      ],
+      "spotify_id": "3WcAYbd36yHMDsVu0QjBrs"
+    },
+    {
+      "name": "Como Enamoraban Antes",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "2uAu7cL2SCVlo1MhKY9YLP"
+    },
+    {
+      "name": "En Peligro de Extinci\u00f3n",
+      "artists": [
+        "Bembe Orquesta",
+        "Farik Grippa"
+      ],
+      "spotify_id": "6NFqonbFp2QhnJIh7cE2s3"
+    },
+    {
+      "name": "Duele",
+      "artists": [
+        "Reik",
+        "Wisin & Yandel"
+      ],
+      "spotify_id": "3NncP0ajz9lqYAZcQD7Bpo"
+    },
+    {
+      "name": "Simples Corazones",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "13vkcX5tmzimIS5Hr17ZJ1"
+    },
+    {
+      "name": "Mitad Mentira, Mitad Verdad",
+      "artists": [
+        "R\u00edo Roma",
+        "Andy Rivera"
+      ],
+      "spotify_id": "5YpbeNBco1kDTt58JCjBn7"
+    },
+    {
+      "name": "Oye",
+      "artists": [
+        "TINI",
+        "Sebastian Yatra"
+      ],
+      "spotify_id": "09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "name": "Romeo y Julieta",
+      "artists": [
+        "Aventuraz"
+      ],
+      "spotify_id": "5UhvMT5rwQm351NOOKOtFU"
+    },
+    {
+      "name": "Lover",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "0bzbvANY6oETSJLc0wlVGY"
+    },
+    {
+      "name": "Departure!",
+      "artists": [
+        "Masatoshi Ono"
+      ],
+      "spotify_id": "5sjoJa0YmBCCPMrBPsBMge"
+    },
+    {
+      "name": "Your Song (My One and Only You)",
+      "artists": [
+        "Julie Anne San Jose"
+      ],
+      "spotify_id": "5Seh4HfqT1mFnRJQswqz51"
+    },
+    {
+      "name": "Everything I Need",
+      "artists": [
+        "Skylar Grey"
+      ],
+      "spotify_id": "29HvCc31h9XemzbR82Skgb"
+    },
+    {
+      "name": "I Like Me Better",
+      "artists": [
+        "Lauv"
+      ],
+      "spotify_id": "1wjzFQodRWrPcQ0AnYnvQ9"
+    },
+    {
+      "name": "Little Do You Know",
+      "artists": [
+        "Jules LeBlanc",
+        "Hayden Summerall"
+      ],
+      "spotify_id": "3fToxtMS9O52sP4ZTV5yqm"
+    },
+    {
+      "name": "Umbrella",
+      "artists": [
+        "Ember Island"
+      ],
+      "spotify_id": "2FX5HPP1FNNuLlt2UU9os7"
+    },
+    {
+      "name": "Zombie",
+      "artists": [
+        "The Cranberries"
+      ],
+      "spotify_id": "2IZZqH4K02UIYg5EohpNHF"
+    },
+    {
+      "name": "Warriors",
+      "artists": [
+        "Nicky Romero",
+        "Volt & State"
+      ],
+      "spotify_id": "3GeYwUPqUOzRjwbO1WVlBe"
+    },
+    {
+      "name": "Still The One (Mix Cut)",
+      "artists": [
+        "Hardwell",
+        "Kill The Buzz",
+        "Max Collins"
+      ],
+      "spotify_id": "6wclRdRBqAUF0RRopmwxVL"
+    },
+    {
+      "name": "Imagination",
+      "artists": [
+        "Shawn Mendes"
+      ],
+      "spotify_id": "1iDCbHDvOGDVHhtL1wCpum"
+    },
+    {
+      "name": "Just A Kiss",
+      "artists": [
+        "Lady A"
+      ],
+      "spotify_id": "31OLRpkgpIH6a1VmVi2bpd"
+    },
+    {
+      "name": "B\u00e9same",
+      "artists": [
+        "Valentino",
+        "Manuel Turizo"
+      ],
+      "spotify_id": "3Qg6tgOrXbdbX9AFW0r4LX"
+    },
+    {
+      "name": "Marry You",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "spotify_id": "6SKwQghsR8AISlxhcwyA9R"
+    },
+    {
+      "name": "Siempre Has Sido Tu",
+      "artists": [
+        "Ezio Oliva"
+      ],
+      "spotify_id": "3CF9XrsgTIL0YBryY5fRsk"
+    },
+    {
+      "name": "Bachata Rosa",
+      "artists": [
+        "Chino & Nacho"
+      ],
+      "spotify_id": "5p1QvUtD2apRxaQxf811zV"
+    },
+    {
+      "name": "De Rodillas",
+      "artists": [
+        "Lucas Arnau"
+      ],
+      "spotify_id": "4zNsXvFhOrvDOdZHCdFVsB"
+    },
+    {
+      "name": "Lo Que Dejaste Al No Volver (feat. Carlos Baute)",
+      "artists": [
+        "Lucas Arnau",
+        "Carlos Baute"
+      ],
+      "spotify_id": "10w7J6oGWd8mqQblsu3XhX"
+    },
+    {
+      "name": "Ven",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "3iQ7CuG5xz2IIF4xZcUxyk"
+    },
+    {
+      "name": "So Far From Me",
+      "artists": [
+        "Brett Dennen"
+      ],
+      "spotify_id": "39p5GBAJ0Qk3Q17Ix5qmjh"
+    },
+    {
+      "name": "Cielo - 2002",
+      "artists": [
+        "Benny"
+      ],
+      "spotify_id": "3xfaeVCJtqH54aZlJalvdr"
+    },
+    {
+      "name": "Me Vas A Extra\u00f1ar",
+      "artists": [
+        "N'Samble"
+      ],
+      "spotify_id": "7C7yDVVwhkAVxdE51sSqwI"
+    },
+    {
+      "name": "They Don't Know About Us",
+      "artists": [
+        "One Direction"
+      ],
+      "spotify_id": "72C7aUQECOhNtnD0AC36ua"
+    },
+    {
+      "name": "Swear It Again - Radio Edit",
+      "artists": [
+        "Westlife"
+      ],
+      "spotify_id": "2x1D20z93vGEjtTP07GOOr"
+    },
+    {
+      "name": "Te Doy Mi Vida",
+      "artists": [
+        "Lucas Arnau"
+      ],
+      "spotify_id": "0ltIbWognQFt70SBWi0VEh"
+    },
+    {
+      "name": "Si Te Acuerdas De Mi",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "3gnnzdeZ7mwRFi6qqVAPQX"
+    },
+    {
+      "name": "Valio La Pena",
+      "artists": [
+        "Lucas Arnau"
+      ],
+      "spotify_id": "55R0XJJ9XOwOHbSuqYmGul"
+    },
+    {
+      "name": "Tu Enemiga",
+      "artists": [
+        "Karen M\u00e9ndez",
+        "Mike Bah\u00eda"
+      ],
+      "spotify_id": "4mswQknWVHyND99AMlXBaB"
+    },
+    {
+      "name": "Quiere Beber",
+      "artists": [
+        "Anuel AA"
+      ],
+      "spotify_id": "3rPAD722s5FFNnwjC91t7Z"
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Avicii"
+      ],
+      "spotify_id": "4h8VwCb1MTGoLKueQ1WgbD"
+    },
+    {
+      "name": "With Or Without You",
+      "artists": [
+        "U2"
+      ],
+      "spotify_id": "0tP5ogrxKrIPKHHc0seuOr"
+    },
+    {
+      "name": "Amigos Con Derechos",
+      "artists": [
+        "Reik",
+        "Maluma"
+      ],
+      "spotify_id": "2zDj4WjbNDmrRL6Z4YjjCA"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "spotify_id": "32lF1rsInDTdK6Av3KdfaY"
+    },
+    {
+      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+      "artists": [
+        "Enrique Iglesias"
+      ],
+      "spotify_id": "1Zq9cPLQ1FKvTwShBJdkr4"
+    },
+    {
+      "name": "Ser\u00e9 Lo Que Quieras Que Sea",
+      "artists": [
+        "Christian Meier"
+      ],
+      "spotify_id": "2bSoHVNbTI8GMPCCxV7x44"
+    },
+    {
+      "name": "Tu jard\u00edn con enanitos",
+      "artists": [
+        "Melendi"
+      ],
+      "spotify_id": "6yCjU5j6YHbux2VQCBTTE1"
+    },
+    {
+      "name": "Y es que sucede as\u00ed",
+      "artists": [
+        "Arena Hash"
+      ],
+      "spotify_id": "1RUCPYCK0A2JyiJQ1CnNtc"
+    },
+    {
+      "name": "Vaina Loca",
+      "artists": [
+        "Ozuna",
+        "Manuel Turizo"
+      ],
+      "spotify_id": "1s2B5cndbqK8rPJEIcKJRQ"
+    },
+    {
+      "name": "Te Besar\u00e9 (Acoustic Version)",
+      "artists": [
+        "Jonathan Moly"
+      ],
+      "spotify_id": "20RIpP9Es9YFL2dNs4phkd"
+    },
+    {
+      "name": "Si me ten\u00edas",
+      "artists": [
+        "Gian Marco"
+      ],
+      "spotify_id": "137butzvFqGMLAPxQhFN5S"
+    },
+    {
+      "name": "Livin' On A Prayer",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "spotify_id": "5OfdwNy6NtQztlVaDdreA1"
+    },
+    {
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "artists": [
+        "Mike Bah\u00eda"
+      ],
+      "spotify_id": "40BHOcBhBU6InTXea4VRAK"
+    },
+    {
+      "name": "Angels",
+      "artists": [
+        "Robbie Williams"
+      ],
+      "spotify_id": "7CKbqqrs0AS1si1ZgaQdcj"
+    },
+    {
+      "name": "Devu\u00e9lveme El Coraz\u00f3n",
+      "artists": [
+        "Sebastian Yatra"
+      ],
+      "spotify_id": "2uWg6P3lEsS1qQ2qg11TUx"
+    },
+    {
+      "name": "Princesa",
+      "artists": [
+        "R\u00edo Roma",
+        "CNCO"
+      ],
+      "spotify_id": "6u1obi0eKnAkDgeFndGMJw"
+    },
+    {
+      "name": "La Estrategia",
+      "artists": [
+        "Cali Y El Dandee"
+      ],
+      "spotify_id": "5fqE4mcMADOX0qTuIlpLZL"
+    },
+    {
+      "name": "The Sound of Silence",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "spotify_id": "2LkaNhCrNVmcYgXJeLVmsw"
+    },
+    {
+      "name": "Tu Poeta",
+      "artists": [
+        "Alex Campos"
+      ],
+      "spotify_id": "6iJ6tQd4EfPh5fSyuAiUVG"
+    },
+    {
+      "name": "Mi Medicina",
+      "artists": [
+        "CNCO"
+      ],
+      "spotify_id": "68iny0s4IkCpu5yr57sGeo"
+    },
+    {
+      "name": "No Me Doy Por Vencido",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "spotify_id": "3A332PPGLcGVIlNpwWf42t"
+    },
+    {
+      "name": "Creer En M\u00ed",
+      "artists": [
+        "Samo"
+      ],
+      "spotify_id": "14YDyOuCt68LSJQ2nQsTK2"
+    },
+    {
+      "name": "Me Niego (feat. Ozuna & Wisin)",
+      "artists": [
+        "Reik",
+        "Ozuna",
+        "Wisin"
+      ],
+      "spotify_id": "6jA8JUuPCGYjFcgw0AoM5T"
+    },
+    {
+      "name": "Te Mando Flores",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "6OpHDI8lRiqHLqmUIYUxVr"
+    },
+    {
+      "name": "Pinta Mi Coraz\u00f3n",
+      "artists": [
+        "Fonseca"
+      ],
+      "spotify_id": "1Yyl6h8fM9ZSvSJzqvfnYq"
+    },
+    {
+      "name": "The Wind",
+      "artists": [
+        "Yusuf / Cat Stevens"
+      ],
+      "spotify_id": "1L70BbUDG0C4EJQ1ZF10sG"
+    },
+    {
+      "name": "One Headlight",
+      "artists": [
+        "The Wallflowers"
+      ],
+      "spotify_id": "4AmJpaF86079ZjFVVYhFbJ"
+    },
+    {
+      "name": "Start of Something New",
+      "artists": [
+        "Vanessa Hudgens",
+        "Troy",
+        "Gabriella"
+      ],
+      "spotify_id": "3VpOdSmne7ZyNIyLtNW9qf"
+    },
+    {
+      "name": "Breaking Free",
+      "artists": [
+        "Vanessa Hudgens",
+        "Troy"
+      ],
+      "spotify_id": "3UbPqpxwxPHHgxtL4vJeo4"
+    },
+    {
+      "name": "Fabricando Fantasias - Salsa Version",
+      "artists": [
+        "Tito Nieves"
+      ],
+      "spotify_id": "3zOLFpLMw06vas82vcu5ug"
+    },
+    {
+      "name": "Summer Nights",
+      "artists": [
+        "Ti\u00ebsto",
+        "John Legend"
+      ],
+      "spotify_id": "3IFfjjPJRbIC9f7fY9CGZx"
+    },
+    {
+      "name": "Love Story",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "0Uc9PhfV2oP7mhXlLux6SM"
+    },
+    {
+      "name": "Mary's Song (Oh My My My)",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "7kq6Oj1oVicXOameZr10E7"
+    },
+    {
+      "name": "Teardrops On My Guitar",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "4tXsR2Hv3l85TQTwgEn3Um"
+    },
+    {
+      "name": "Mine",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "4UKe8besA3ozapud4bAOug"
+    },
+    {
+      "name": "Red",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "spotify_id": "12pbmOrWJNjU0TAFZEw2G7"
+    },
+    {
+      "name": "Perfect",
+      "artists": [
+        "Simple Plan"
+      ],
+      "spotify_id": "2TeiKDPE3RdamZG0pp5okI"
+    },
+    {
+      "name": "Stitches",
+      "artists": [
+        "Shawn Mendes"
+      ],
+      "spotify_id": "1WP1r7fuvRqZRnUaTi2I1Q"
+    },
+    {
+      "name": "Traicionera",
+      "artists": [
+        "Sebastian Yatra"
+      ],
+      "spotify_id": "5J1c3M4EldCfNxXwrwt8mT"
+    },
+    {
+      "name": "Stay With Me",
+      "artists": [
+        "Sam Smith"
+      ],
+      "spotify_id": "2whoe0pPKh4JRn6eWSIqTV"
+    },
+    {
+      "name": "C\u00f3mo Fui?",
+      "artists": [
+        "R\u00edo Roma"
+      ],
+      "spotify_id": "5I3PfZmBiTna4nHSIGLXJ4"
+    },
+    {
+      "name": "Caminar de Tu Mano",
+      "artists": [
+        "R\u00edo Roma",
+        "Fonseca"
+      ],
+      "spotify_id": "7cCRlUf8ayOJtTlWN7g8Ni"
+    },
+    {
+      "name": "El Amor",
+      "artists": [
+        "Ricardo Arjona"
+      ],
+      "spotify_id": "4DPY6KAMqfyQbaAZcr3bik"
+    },
+    {
+      "name": "No Preguntes C\u00f3mo Estoy",
+      "artists": [
+        "Ricardo Arjona"
+      ],
+      "spotify_id": "2dUZGddtslNtR6cumLqM4Y"
+    },
+    {
+      "name": "El Cielo a Mi Favor",
+      "artists": [
+        "Ricardo Arjona"
+      ],
+      "spotify_id": "0BJwrbkZKf7KwlwBOJbD8i"
+    },
+    {
+      "name": "El Que Olvida",
+      "artists": [
+        "Ricardo Arjona"
+      ],
+      "spotify_id": "69dW5grE2KVwjl0ACruk0k"
+    },
+    {
+      "name": "Trouble",
+      "artists": [
+        "R3HAB",
+        "V\u00c9RIT\u00c9"
+      ],
+      "spotify_id": "4exKBPywrjt5lTMhBhpD1G"
+    },
+    {
+      "name": "You'll Be In My Heart",
+      "artists": [
+        "Phil Collins"
+      ],
+      "spotify_id": "6LBfozDVA7crIeuaPAVVlE"
+    },
+    {
+      "name": "Como Las Mariposas",
+      "artists": [
+        "Pedro Su\u00e1rez-V\u00e9rtiz"
+      ],
+      "spotify_id": "0bcf8sJ8W7IXPsnl4qYqVl"
+    },
+    {
+      "name": "Lo Olvid\u00e9",
+      "artists": [
+        "Pedro Su\u00e1rez-V\u00e9rtiz"
+      ],
+      "spotify_id": "60a4EOs1FRjFl2LufERAHn"
+    },
+    {
+      "name": "Si Te Vas",
+      "artists": [
+        "Pedro Fern\u00e1ndez"
+      ],
+      "spotify_id": "1PtLFJtu4Dlx6oRSa2Muoh"
+    },
+    {
+      "name": "Hasta El Fin Del Mundo",
+      "artists": [
+        "Pedro Fern\u00e1ndez"
+      ],
+      "spotify_id": "6pcZ6r2Z03DHtochBFWtNB"
+    },
+    {
+      "name": "Amiga Por Favor",
+      "artists": [
+        "Pedro Fern\u00e1ndez"
+      ],
+      "spotify_id": "1l0x2aErEODaNwsQu8cf86"
+    },
+    {
+      "name": "Mi Forma De Sentir",
+      "artists": [
+        "Pedro Fern\u00e1ndez"
+      ],
+      "spotify_id": "0fwv93hNRkjY7jq6402VRl"
+    },
+    {
+      "name": "Amarte A La Antigua",
+      "artists": [
+        "Pedro Fern\u00e1ndez"
+      ],
+      "spotify_id": "2F3uqOpgyHMgljnDnj9ghL"
+    },
+    {
+      "name": "Future Days",
+      "artists": [
+        "Pearl Jam"
+      ],
+      "spotify_id": "3l2EpjN1MEGNWeUYOkraQB"
+    },
+    {
+      "name": "Me Gusta Todo de Ti",
+      "artists": [
+        "Noche de Brujas"
+      ],
+      "spotify_id": "0HApSdHyf2oo4WU4UJiTgc"
+    },
+    {
+      "name": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "spotify_id": "0MKGH8UMfCnq5w7nG06oM5"
+    },
+    {
+      "name": "The Only Way Is Up",
+      "artists": [
+        "Martin Garrix",
+        "Ti\u00ebsto"
+      ],
+      "spotify_id": "5wsskBPgW3pw876uCa9JX4"
+    },
+    {
+      "name": "Dragon - Original Mix",
+      "artists": [
+        "Martin Garrix",
+        "Matisse & Sadko"
+      ],
+      "spotify_id": "5RTcqTN4gSFNHrk6gV74mZ"
+    },
+    {
+      "name": "Sugar",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "494OU6M7NOf4ICYb4zWCf5"
+    },
+    {
+      "name": "Sunday Morning",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "4T5cqerbDXueYSVfXkIITo"
+    },
+    {
+      "name": "This Love",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "5zF2zGPkL6Ipsn9AfAK6RP"
+    },
+    {
+      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "artists": [
+        "Maroon 5",
+        "Kendrick Lamar"
+      ],
+      "spotify_id": "2QbFClFyhMMtiurUjuQlAe"
+    },
+    {
+      "name": "Maps",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "6chdRBWviHlm7JAtwgflBP"
+    },
+    {
+      "name": "Misery",
+      "artists": [
+        "Maroon 5"
+      ],
+      "spotify_id": "0RZyUsKfiC7MtiGKatCtGc"
+    },
+    {
+      "name": "Ojal\u00e1 Pudiera Borrarte",
+      "artists": [
+        "Man\u00e1"
+      ],
+      "spotify_id": "35IBanjpZmYVKYUnubJKuB"
+    },
+    {
+      "name": "Bendita Tu Luz",
+      "artists": [
+        "Man\u00e1"
+      ],
+      "spotify_id": "5UUJODERmh8Dfu960OJicA"
+    },
+    {
+      "name": "Esta Noche Es Para Amar",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "spotify_id": "4tS0P3XZfnxYwyFY8BUbA8"
+    },
+    {
+      "name": "Imag\u00edname Sin Ti",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "spotify_id": "3Ntr2xdlZ17BLt8wX3TmWa"
+    },
+    {
+      "name": "Aqui Estoy Yo",
+      "artists": [
+        "Luis Fonsi",
+        "Aleks Syntek",
+        "Noel Schajris",
+        "David Bisbal"
+      ],
+      "spotify_id": "5tDTXWV3B3ixz9YCr3MxNY"
+    },
+    {
+      "name": "Aunque Estes Con El",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "spotify_id": "7drgr2iYQBTICPjfYM1vd5"
+    },
+    {
+      "name": "Llueve Por Dentro",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "spotify_id": "72AC5xnRC0X3xZNKuYVA0C"
+    },
+    {
+      "name": "\u00c9chame La Culpa",
+      "artists": [
+        "Luis Fonsi",
+        "Demi Lovato"
+      ],
+      "spotify_id": "1zsG4eaZmkA1dvjDDsAGLK"
+    },
+    {
+      "name": "Despacito (Featuring Daddy Yankee)",
+      "artists": [
+        "Luis Fonsi",
+        "Daddy Yankee"
+      ],
+      "spotify_id": "4aWmUDTfIPGksMNLV2rQP2"
+    },
+    {
+      "name": "Llegaste T\u00fa",
+      "artists": [
+        "Luis Fonsi",
+        "Juan Luis Guerra 4.40"
+      ],
+      "spotify_id": "7cvw9YXDn35Ra6xCrIqVNZ"
+    },
+    {
+      "name": "Tienes La Magia",
+      "artists": [
+        "Lil Silvio & El Vega"
+      ],
+      "spotify_id": "3cx2712k0b6hvlJC0q27rL"
+    },
+    {
+      "name": "You And Me",
+      "artists": [
+        "Lifehouse"
+      ],
+      "spotify_id": "0cfZEZwqwlXlvpbb0jTSVz"
+    },
+    {
+      "name": "No Voy a Verte M\u00e1s",
+      "artists": [
+        "Libido"
+      ],
+      "spotify_id": "2edoq4ciioEvctDTlPSLGa"
+    },
+    {
+      "name": "En Esta Habitaci\u00f3n",
+      "artists": [
+        "Libido"
+      ],
+      "spotify_id": "0JtaEJheisnUfqkI4r8ZLL"
+    },
+    {
+      "name": "Algo M\u00e1s",
+      "artists": [
+        "La Quinta Estacion"
+      ],
+      "spotify_id": "1TcwFgNVSk901hK4Rwpcsn"
+    },
+    {
+      "name": "Bink's Sake (From \"One Piece\")",
+      "artists": [
+        "daigoro789"
+      ],
+      "spotify_id": "1fNfWoPh0vJVWICJY93FQl"
+    },
+    {
+      "name": "Llorar duele mas",
+      "artists": [
+        "Kalimba"
+      ],
+      "spotify_id": "4a7QzqiM4gFLFgU3VZZZTm"
+    },
+    {
+      "name": "Tocando Fondo",
+      "artists": [
+        "Kalimba"
+      ],
+      "spotify_id": "0SkBQleJuWAmiPo73j0cOs"
+    },
+    {
+      "name": "Fotograf\u00eda",
+      "artists": [
+        "Juanes",
+        "Nelly Furtado"
+      ],
+      "spotify_id": "4j2j3xpRf4tEJx9kRTw0nk"
+    },
+    {
+      "name": "Es Por T\u00ed",
+      "artists": [
+        "Juanes"
+      ],
+      "spotify_id": "1TUrIxj0I1iBgVzVPZ2A9p"
+    },
+    {
+      "name": "A Dios Le Pido",
+      "artists": [
+        "Juanes"
+      ],
+      "spotify_id": "7HJKzIgaNgDgo3p3a2ToR6"
+    },
+    {
+      "name": "Me Enamora",
+      "artists": [
+        "Juanes"
+      ],
+      "spotify_id": "3vUqTMKCNol6l7TUAqaxJ5"
+    },
+    {
+      "name": "Amar y Querer",
+      "artists": [
+        "Jos\u00e9 Jos\u00e9"
+      ],
+      "spotify_id": "1FJhxxsnp9JLvMJIHNvGtF"
+    },
+    {
+      "name": "Look What You've Done",
+      "artists": [
+        "Jet"
+      ],
+      "spotify_id": "0ZSmRnXnP5fdANtVlCok1g"
+    },
+    {
+      "name": "Mi Vida Sin Ti (En Vivo)",
+      "artists": [
+        "Jes\u00fas Adri\u00e1n Romero"
+      ],
+      "spotify_id": "27h8dbVJNk6PYzM3JkBtB0"
+    },
+    {
+      "name": "Llorar (feat. Mario Domm)",
+      "artists": [
+        "Jesse & Joy",
+        "Mario Domm"
+      ],
+      "spotify_id": "7KffKVdLO4P8e4Yx8gDYgw"
+    },
+    {
+      "name": "Me Quiero Enamorar",
+      "artists": [
+        "Jesse & Joy"
+      ],
+      "spotify_id": "2ae7jtHQeNWdPvs3HZ3kDi"
+    },
+    {
+      "name": "La De La Mala Suerte",
+      "artists": [
+        "Jesse & Joy"
+      ],
+      "spotify_id": "40qGH4aiVeaFW7qIPCyTVa"
+    },
+    {
+      "name": "\u00a1Corre!",
+      "artists": [
+        "Jesse & Joy"
+      ],
+      "spotify_id": "5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "name": "No Me Ames (with Marc Anthony) - Tropical Remix",
+      "artists": [
+        "Jennifer Lopez",
+        "Marc Anthony"
+      ],
+      "spotify_id": "36QO3qL6JvLrqeF0zJVRAe"
+    },
+    {
+      "name": "Heroes Tonight",
+      "artists": [
+        "Janji",
+        "Johnning"
+      ],
+      "spotify_id": "3SipFlNddvL0XNZRLXvdZD"
+    },
+    {
+      "name": "Mad World - Acoustic Version",
+      "artists": [
+        "Hardwell",
+        "Jake Reese"
+      ],
+      "spotify_id": "7BRYEE8wi0gye3T5V7zro9"
+    },
+    {
+      "name": "Es Tu Amor",
+      "artists": [
+        "Hany Kauam"
+      ],
+      "spotify_id": "2YkFlTIhhJtFJeFVQ4d2CH"
+    },
+    {
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Guns N' Roses"
+      ],
+      "spotify_id": "7gXdAqJLCa5aYUeLVxosOz"
+    },
+    {
+      "name": "Cuando Se Acaba el Amor",
+      "artists": [
+        "Guillermo Davila"
+      ],
+      "spotify_id": "25aEGXxteZgKEJbJJxVLjK"
+    },
+    {
+      "name": "Runnin\u2019 Home to You",
+      "artists": [
+        "Grant Gustin"
+      ],
+      "spotify_id": "7osb1eYuVpKsKJDMe6bodj"
+    },
+    {
+      "name": "Canci\u00f3n de Amor",
+      "artists": [
+        "Gian Marco"
+      ],
+      "spotify_id": "6aP2ySgladUWMojsj8SgeJ"
+    },
+    {
+      "name": "Seven Day Mile",
+      "artists": [
+        "The Frames"
+      ],
+      "spotify_id": "2B7V3xMgVXj9aDq8SUR4rF"
+    },
+    {
+      "name": "Cuando Me Enamoro",
+      "artists": [
+        "Enrique Iglesias",
+        "Juan Luis Guerra 4.40"
+      ],
+      "spotify_id": "66ggIz6W6hlmlyezLBZDcn"
+    },
+    {
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "artists": [
+        "Ellie Goulding"
+      ],
+      "spotify_id": "7y2YUIyCuVhBidENVT0068"
+    },
+    {
+      "name": "Time Is Coming",
+      "artists": [
+        "The Elected"
+      ],
+      "spotify_id": "21YD6MPaMY5CUsVYdqcPzD"
+    },
+    {
+      "name": "Shape of You",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "spotify_id": "0FE9t6xYkqWXU2ahLh6D8X"
+    },
+    {
+      "name": "Let It Go",
+      "artists": [
+        "Demi Lovato"
+      ],
+      "spotify_id": "6s0VW5jUPcDTmqef9hZCKg"
+    },
+    {
+      "name": "No Importa La Distancia",
+      "artists": [
+        "David Bisbal"
+      ],
+      "spotify_id": "3xIXnWOw0Od1GWvYBz59d4"
+    },
+    {
+      "name": "Mi Princesa",
+      "artists": [
+        "David Bisbal"
+      ],
+      "spotify_id": "5QkhJ1APhxew8pYaj1TXaN"
+    },
+    {
+      "name": "Esta Ausencia",
+      "artists": [
+        "David Bisbal"
+      ],
+      "spotify_id": "0wMJbNxNb3myxYoSFIkPx6"
+    },
+    {
+      "name": "D\u00edgale",
+      "artists": [
+        "David Bisbal"
+      ],
+      "spotify_id": "3VCxdwomIGHll7EdEK310k"
+    },
+    {
+      "name": "Museum of Flight",
+      "artists": [
+        "Damien Jurado"
+      ],
+      "spotify_id": "3jPiv3uw7BUSkhdOuxUxkq"
+    },
+    {
+      "name": "Accidentally In Love",
+      "artists": [
+        "Counting Crows"
+      ],
+      "spotify_id": "4FXdIM78OBdw7KIY2jeM8D"
+    },
+    {
+      "name": "Esp\u00e9rame en El Tren",
+      "artists": [
+        "Christian Meier"
+      ],
+      "spotify_id": "5rT7BZttP7kPxoxcgvpho8"
+    },
+    {
+      "name": "Qu\u00e9date",
+      "artists": [
+        "Christian Meier"
+      ],
+      "spotify_id": "3KNox3diwQY5TLWNPeyduG"
+    },
+    {
+      "name": "Carreteras Mojadas",
+      "artists": [
+        "Christian Meier"
+      ],
+      "spotify_id": "0MMgMBAKlMZNtHlprzHkTX"
+    },
+    {
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "artists": [
+        "C\u00e9line Dion"
+      ],
+      "spotify_id": "4Dw02sVUfUA67l3fZ9FoKs"
+    },
+    {
+      "name": "La Bicicleta",
+      "artists": [
+        "Carlos Vives",
+        "Shakira"
+      ],
+      "spotify_id": "0sXvAOmXgjR2QUqLK1MltU"
+    },
+    {
+      "name": "S\u00f3lo T\u00fa",
+      "artists": [
+        "Carlos Rivera"
+      ],
+      "spotify_id": "4BjNY78GRkjyXFjhhcJ7oq"
+    },
+    {
+      "name": "Fascinaci\u00f3n",
+      "artists": [
+        "Carlos Rivera"
+      ],
+      "spotify_id": "7cxscPL2rnocwthwRMDZks"
+    },
+    {
+      "name": "Borrar y Continuar",
+      "artists": [
+        "Carlos Rivera"
+      ],
+      "spotify_id": "1T9DOBjsKquxDiTRLkTNRj"
+    },
+    {
+      "name": "Recu\u00e9rdame",
+      "artists": [
+        "Carlos Rivera"
+      ],
+      "spotify_id": "5KRtjHNq9aKWvE7wTMvdM9"
+    },
+    {
+      "name": "The Lazy Song",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "spotify_id": "386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "name": "Ain't No Reason",
+      "artists": [
+        "Brett Dennen"
+      ],
+      "spotify_id": "0FSaq4WfIJ8RbG2Li1JD5B"
+    },
+    {
+      "name": "Heaven (feat. Megan Nicole)",
+      "artists": [
+        "Boyce Avenue",
+        "Megan Nicole"
+      ],
+      "spotify_id": "755WE9qLMDJFlVfci5suzT"
+    },
+    {
+      "name": "You Give Love A Bad Name",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "spotify_id": "5VVwwfK6Cp9IydkhKfJUEq"
+    },
+    {
+      "name": "Always",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "spotify_id": "0kish3Tobj6Wq0we74343q"
+    },
+    {
+      "name": "Un Osito Dormil\u00f3n",
+      "artists": [
+        "Binomio de Oro de Am\u00e9rica"
+      ],
+      "spotify_id": "0HPVcdtXABd0hUudn4UceE"
+    },
+    {
+      "name": "Hoy Es Hoy",
+      "artists": [
+        "Axel Witteveen"
+      ],
+      "spotify_id": "4bfNdGUkX1MaSoXZWI3Wdu"
+    },
+    {
+      "name": "The Days",
+      "artists": [
+        "Avicii"
+      ],
+      "spotify_id": "7HW01sQy5UOxyezzZg98nd"
+    },
+    {
+      "name": "Mil Horas",
+      "artists": [
+        "Andr\u00e9s Calamaro"
+      ],
+      "spotify_id": "5RIypaRRQFO7tizTuK4iuU"
+    },
+    {
+      "name": "Simplemente Amigos",
+      "artists": [
+        "Ana Gabriel"
+      ],
+      "spotify_id": "2w3hRh03IPv1ueQ15V1XU3"
+    },
+    {
+      "name": "Decir adi\u00f3s",
+      "artists": [
+        "Am\u00e9n"
+      ],
+      "spotify_id": "1pOwXQfll2IWb9GTaRQT2V"
+    },
+    {
+      "name": "Amor sincero",
+      "artists": [
+        "Alexander Acha"
+      ],
+      "spotify_id": "0cYK6jIyy3aqIN5LLAMk9q"
+    },
+    {
+      "name": "Bendita mujercita.",
+      "artists": [
+        "Alex Campos"
+      ],
+      "spotify_id": "1nwTX5ZlilaCru7qSxPY2U"
+    },
+    {
+      "name": "Cool",
+      "artists": [
+        "Alesso",
+        "Roy English"
+      ],
+      "spotify_id": "7vhOZ7D4z03Y0tYkxFAG15"
+    },
+    {
+      "name": "Sorry, Blame It On Me",
+      "artists": [
+        "Akon"
+      ],
+      "spotify_id": "6m5jURnwGHY1pVw0sJqBBq"
+    },
+    {
+      "name": "Beautiful",
+      "artists": [
+        "Akon",
+        "Colby O'Donis",
+        "Kardinal Offishall"
+      ],
+      "spotify_id": "4rqR0yM2k41leqyErhNzTs"
+    },
+    {
+      "name": "Smack That",
+      "artists": [
+        "Akon",
+        "Eminem"
+      ],
+      "spotify_id": "3qKGvSu1inEZKwYQnMavNA"
+    },
+    {
+      "name": "Right Now (Na Na Na)",
+      "artists": [
+        "Akon"
+      ],
+      "spotify_id": "6cj8s9tWTahcd0XmnM2tVj"
+    },
+    {
+      "name": "Por Mil Noches",
+      "artists": [
+        "Airbag"
+      ],
+      "spotify_id": "10zSgbysU2KyVTrcRmtu62"
+    },
+    {
+      "name": "Cryin'",
+      "artists": [
+        "Aerosmith"
+      ],
+      "spotify_id": "3Yls95V4qCzVfR20gr8cOW"
+    },
+    {
+      "name": "Crazy",
+      "artists": [
+        "Aerosmith"
+      ],
+      "spotify_id": "2cBGl1Ehr1D9xbqNmraqb4"
+    },
+    {
+      "name": "Love in the Dark",
+      "artists": [
+        "Adele"
+      ],
+      "spotify_id": "6oQRvWaoFDJpTTnaWdzhXt"
+    },
+    {
+      "name": "Hello",
+      "artists": [
+        "Adele"
+      ],
+      "spotify_id": "0ENSn4fwAbCGeFGVUbXEU3"
+    },
+    {
+      "name": "Someone Like You",
+      "artists": [
+        "Adele"
+      ],
+      "spotify_id": "4kflIGfjdZJW4ot2ioixTB"
+    },
+    {
+      "name": "Ma\u00f1ana Es Para Siempre",
+      "artists": [
+        "Alejandro Fern\u00e1ndez"
+      ],
+      "spotify_id": "4upMXPYMNj7BtI73LcelNR"
+    },
+    {
+      "name": "Quiero Que Vuelvas",
+      "artists": [
+        "Alejandro Fern\u00e1ndez"
+      ],
+      "spotify_id": "2Zw7rSucHm0MIph9gmNiSn"
+    },
+    {
+      "name": "Hoy Tengo Ganas De Ti",
+      "artists": [
+        "Alejandro Fern\u00e1ndez",
+        "Christina Aguilera"
+      ],
+      "spotify_id": "6QMgs72iwsAuEPobHbH8Jf"
+    },
+    {
+      "name": "Me Hace Tanto Bien",
+      "artists": [
+        "Alejandro Fern\u00e1ndez"
+      ],
+      "spotify_id": "4TEYKFb5cMqEnCjwvpQusb"
+    },
+    {
+      "name": "S\u00e9 Que Te Duele",
+      "artists": [
+        "Alejandro Fern\u00e1ndez",
+        "Morat"
+      ],
+      "spotify_id": "5vZfgeDfNhlkKeJqjzSAmg"
+    }
+  ]
+}

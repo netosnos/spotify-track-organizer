@@ -11,7 +11,8 @@ from pathlib import Path
 def load_spotify_songs(file_path: str) -> list:
     """Load Spotify songs from JSON file"""
     with open(file_path, 'r') as f:
-        return json.load(f)
+        data = json.load(f)
+        return data.get('data', [])
 
 def get_reccobeats_info(spotify_tracks: list) -> tuple:
     """
@@ -78,38 +79,57 @@ def get_reccobeats_info(spotify_tracks: list) -> tuple:
     return tracks_with_ids, tracks_without_ids
 
 def save_results(tracks_with_ids: list, tracks_without_ids: list):
-    """Save results to JSON files"""
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    
+    """Save results to JSON files with metadata"""
     # Create data directory if it doesn't exist
-    Path('data/processed').mkdir(parents=True, exist_ok=True)
+    processed_dir = Path('data/processed')
+    processed_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Prepare metadata
+    current_time = datetime.now().isoformat()
+    metadata = {
+        'metadata': {
+            'created_at': current_time,
+            'updated_at': current_time,
+            'total_tracks': len(tracks_with_ids) + len(tracks_without_ids),
+            'tracks_with_ids': len(tracks_with_ids),
+            'tracks_without_ids': len(tracks_without_ids)
+        }
+    }
     
     # Save tracks with RaccoonBeats IDs
-    with open(f'data/processed/tracks_with_raccobeats_{timestamp}.json', 'w') as f:
-        json.dump(tracks_with_ids, f, indent=2)
+    output_with_ids = {
+        **metadata,
+        'tracks': tracks_with_ids
+    }
+    with open(processed_dir / 'tracks_with_raccobeats_ids.json', 'w') as f:
+        json.dump(output_with_ids, f, indent=2)
     
     # Save tracks without RaccoonBeats IDs
     if tracks_without_ids:
-        with open(f'data/processed/tracks_without_raccobeats_{timestamp}.json', 'w') as f:
-            json.dump(tracks_without_ids, f, indent=2)
+        output_without_ids = {
+            **metadata,
+            'tracks': tracks_without_ids
+        }
+        with open(processed_dir / 'tracks_without_raccobeats_ids.json', 'w') as f:
+            json.dump(output_without_ids, f, indent=2)
     
-    print(f"\nResults saved with timestamp: {timestamp}")
+    print("\nResults saved to:")
+    print(f"- {processed_dir / 'tracks_with_raccobeats_ids.json'}")
+    if tracks_without_ids:
+        print(f"- {processed_dir / 'tracks_without_raccobeats_ids.json'}")
 
 def main():
-    # Find the most recent liked songs file
-    raw_dir = Path('data/raw')
-    liked_songs_files = list(raw_dir.glob('liked_songs_*.json'))
+    # Use the liked_songs.json file from raw folder
+    liked_songs_file = Path('data/raw/liked_songs.json')
     
-    if not liked_songs_files:
-        print("No liked songs file found in data/raw directory")
+    if not liked_songs_file.exists():
+        print("liked_songs.json not found in data/raw directory")
         return
     
-    # Get the most recent file
-    latest_file = max(liked_songs_files, key=lambda x: x.stat().st_mtime)
-    print(f"Using file: {latest_file}")
+    print(f"Using file: {liked_songs_file}")
     
     # Load Spotify songs
-    spotify_tracks = load_spotify_songs(latest_file)
+    spotify_tracks = load_spotify_songs(liked_songs_file)
     print(f"Loaded {len(spotify_tracks)} tracks from Spotify")
     
     # Get RaccoonBeats IDs

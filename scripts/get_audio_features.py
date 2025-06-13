@@ -13,19 +13,19 @@ def format_time(seconds):
     return str(timedelta(seconds=int(seconds)))
 
 def load_tracks_with_reccobeats() -> list:
-    """Load tracks that have RaccoonBeats IDs from the most recent JSON file"""
+    """Load tracks that have RaccoonBeats IDs from the fixed JSON file"""
     processed_dir = Path('data/processed')
-    files = list(processed_dir.glob('tracks_with_raccobeats_*.json'))
+    input_file = processed_dir / 'tracks_with_raccobeats_ids.json'
     
-    if not files:
-        print("No tracks with RaccoonBeats IDs found!")
+    if not input_file.exists():
+        print("tracks_with_raccobeats_ids.json not found!")
         return []
     
-    latest_file = max(files, key=lambda x: x.stat().st_mtime)
-    print(f"\nLoading tracks from: {latest_file}")
+    print(f"\nLoading tracks from: {input_file}")
     
-    with open(latest_file, 'r') as f:
-        tracks = json.load(f)
+    with open(input_file, 'r') as f:
+        data = json.load(f)
+        tracks = data.get('tracks', [])
     
     print(f"Found {len(tracks)} tracks with RaccoonBeats IDs")
     return tracks
@@ -100,22 +100,44 @@ def get_audio_features(tracks: list) -> tuple:
     return tracks_with_features, tracks_without_features
 
 def save_results(tracks_with_features: list, tracks_without_features: list):
-    """Save results to JSON files"""
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    
+    """Save results to JSON files with metadata"""
     # Create data directory if it doesn't exist
-    Path('data/processed').mkdir(parents=True, exist_ok=True)
+    processed_dir = Path('data/processed')
+    processed_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Prepare metadata
+    current_time = datetime.now().isoformat()
+    metadata = {
+        'metadata': {
+            'created_at': current_time,
+            'updated_at': current_time,
+            'total_tracks': len(tracks_with_features) + len(tracks_without_features),
+            'tracks_with_features': len(tracks_with_features),
+            'tracks_without_features': len(tracks_without_features)
+        }
+    }
     
     # Save tracks with features
-    with open(f'data/processed/tracks_with_audio_features_{timestamp}.json', 'w') as f:
-        json.dump(tracks_with_features, f, indent=2)
+    output_with_features = {
+        **metadata,
+        'tracks': tracks_with_features
+    }
+    with open(processed_dir / 'tracks_with_audio_features.json', 'w') as f:
+        json.dump(output_with_features, f, indent=2)
     
     # Save tracks without features
     if tracks_without_features:
-        with open(f'data/processed/tracks_without_audio_features_{timestamp}.json', 'w') as f:
-            json.dump(tracks_without_features, f, indent=2)
+        output_without_features = {
+            **metadata,
+            'tracks': tracks_without_features
+        }
+        with open(processed_dir / 'tracks_without_audio_features.json', 'w') as f:
+            json.dump(output_without_features, f, indent=2)
     
-    print(f"\nResults saved with timestamp: {timestamp}")
+    print("\nResults saved to:")
+    print(f"- {processed_dir / 'tracks_with_audio_features.json'}")
+    if tracks_without_features:
+        print(f"- {processed_dir / 'tracks_without_audio_features.json'}")
 
 def main():
     start_time = time.time()
