@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "created_at": "2025-06-13T00:28:36.987410",
-    "updated_at": "2025-06-13T00:28:36.987410",
+    "created_at": "2025-06-13T16:50:25.692661",
+    "updated_at": "2025-06-13T16:50:25.692661",
     "total_tracks": 1550,
     "tracks_with_ids": 1263,
     "tracks_without_ids": 287
@@ -10,2126 +10,4641 @@
     {
       "name": "MIL VIDAS",
       "artists": [
-        "Mora",
-        "Ryan Castro"
+        {
+          "id": "0Q8NcsJwoCbZOHHW63su5S",
+          "name": "Mora",
+          "genres": [
+            "urbano latino",
+            "trap latino",
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "7j6DKwmjbxvpQO8h914uEz",
+          "name": "Ryan Castro",
+          "genres": [
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "3bn6CxnWxuvYZz3i9vE2dc"
     },
     {
       "name": "Por Fin Te Encontr\u00e9",
       "artists": [
-        "Cali Y El Dandee",
-        "Juan Mag\u00e1n",
-        "Sebastian Yatra"
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "1ackd5XprZEkH3McKbQD51",
+          "name": "Juan Mag\u00e1n",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        },
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "0XHfykRGZrVD3umBCtfvAv"
     },
     {
       "name": "Quiero Besarte la Boca",
       "artists": [
-        "LA NUEVA ESCUELA"
+        {
+          "id": "5TeBsszZQTyqBX4eDHdtNx",
+          "name": "LA NUEVA ESCUELA",
+          "genres": [
+            "candombe"
+          ]
+        }
       ],
       "spotify_id": "5aPEnoEm93k5vytdyytOlm"
     },
     {
       "name": "Rolex",
       "artists": [
-        "Camilo",
-        "Mau y Ricky"
+        {
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        },
+        {
+          "id": "2wkoKEfS6dXwThbyTnZWFU",
+          "name": "Mau y Ricky",
+          "genres": [
+            "reggaeton",
+            "latin pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "5hXlAWrc8L8hYhxUnXlqFf"
     },
     {
       "name": "Just the Way You Are",
       "artists": [
-        "Bruno Mars"
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "genres": []
+        }
       ],
       "spotify_id": "47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "name": "Me Lo Cre\u00ed",
       "artists": [
-        "Dayanara"
+        {
+          "id": "6HxyqkGDMKQmzp9OsI9e0Q",
+          "name": "Dayanara",
+          "genres": [
+            "popular colombian music"
+          ]
+        }
       ],
       "spotify_id": "2QTcloeFHkbUJiX8vNHocw"
     },
     {
       "name": "I Think They Call This Love",
       "artists": [
-        "Elliot James Reay"
+        {
+          "id": "2PI9HrzzMTN7E5poWl4QX5",
+          "name": "Elliot James Reay",
+          "genres": []
+        }
       ],
       "spotify_id": "6ezlyxouJ9WcHU8WdtHlgk"
     },
     {
       "name": "M\u00edrame",
       "artists": [
-        "Blessd",
-        "Ovy On The Drums"
+        {
+          "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+          "name": "Blessd",
+          "genres": [
+            "reggaeton",
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "3m5qlPf2OkihLz3dRYnkPA",
+          "name": "Ovy On The Drums",
+          "genres": [
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "name": "Cuando Te Vi | CROSSOVER #5",
       "artists": [
-        "Big One",
-        "Maria Becerra",
-        "Trueno"
+        {
+          "id": "2OhUNb01gLwygOizYvTm0e",
+          "name": "Big One",
+          "genres": [
+            "argentine trap",
+            "cuarteto",
+            "cumbia"
+          ]
+        },
+        {
+          "id": "1DxLCyH42yaHKGK3cl5bvG",
+          "name": "Maria Becerra",
+          "genres": [
+            "argentine trap"
+          ]
+        },
+        {
+          "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+          "name": "Trueno",
+          "genres": [
+            "argentine trap"
+          ]
+        }
       ],
       "spotify_id": "5OwAhFlvFZ4ZdGDfroYgAm"
     },
     {
       "name": "Perfecta",
       "artists": [
-        "Rusherking",
-        "Dread Mar I"
+        {
+          "id": "3Apb2lGmGJaBmr0TTBJvIZ",
+          "name": "Rusherking",
+          "genres": [
+            "argentine trap",
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "1aw0Cdl1DIrtUrUA6fGbAR",
+          "name": "Dread Mar I",
+          "genres": [
+            "spanish-language reggae",
+            "reggae"
+          ]
+        }
       ],
       "spotify_id": "5rGorQ0R06XveTJXMd3QRi"
     },
     {
       "name": "Amor Prohibido",
       "artists": [
-        "SONANDO"
+        {
+          "id": "3N0KzDZS1D5VHYOVa0kA9w",
+          "name": "SONANDO",
+          "genres": [
+            "cumbia"
+          ]
+        }
       ],
       "spotify_id": "3SShVdYwlQ8WVo6QlH7keX"
     },
     {
       "name": "La Misi\u00f3n",
       "artists": [
-        "Piso 21",
-        "Wisin"
+        {
+          "id": "4bw2Am3p9ji3mYsXNXtQcd",
+          "name": "Piso 21",
+          "genres": [
+            "reggaeton",
+            "colombian pop",
+            "pop urbano"
+          ]
+        },
+        {
+          "id": "3E6xrwgnVfYCrCs0ePERDz",
+          "name": "Wisin",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "64fxxCNA8oQxNBGKyqranN"
     },
     {
       "name": "Traductor",
       "artists": [
-        "Myke Towers",
-        "Tiago PZK"
+        {
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "5Y3MV9DZ0d87NnVm56qSY1",
+          "name": "Tiago PZK",
+          "genres": [
+            "argentine trap",
+            "urbano latino"
+          ]
+        }
       ],
       "spotify_id": "5qILAMiqeoJIcVGpHqnYhJ"
     },
     {
       "name": "VOLVERTE A VER",
       "artists": [
-        "Rohan",
-        "Room60"
+        {
+          "id": "3QjvhxJpUp6Vs80xWXZNX9",
+          "name": "Rohan",
+          "genres": []
+        },
+        {
+          "id": "6JCGNMT0DYHQn5p5O47DA4",
+          "name": "Room60",
+          "genres": []
+        }
       ],
       "spotify_id": "7FIs2dSNRHDCJaDHccroPM"
     },
     {
       "name": "Una Rosa",
       "artists": [
-        "3AM"
+        {
+          "id": "1LU7BxbUvvuA4eNDdEO22D",
+          "name": "3AM",
+          "genres": [
+            "latin r&b"
+          ]
+        }
       ],
       "spotify_id": "51yg9o7d7GTpseFip7CGeR"
     },
     {
       "name": "Zun Da Da versi\u00f3n solo - Ac\u00fastico",
       "artists": [
-        "Ferxxo"
+        {
+          "id": "46lMd4kei0eQJHDYLdrw8R",
+          "name": "Ferxxo",
+          "genres": []
+        }
       ],
       "spotify_id": "375K8Nlf3iU6JeFJlaIo03"
     },
     {
       "name": "Bronceado - Remix",
       "artists": [
-        "Marama",
-        "MYA",
-        "Robleis"
+        {
+          "id": "4GepMkTgrIZECoCC55vqjW",
+          "name": "Marama",
+          "genres": [
+            "cumbia",
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "5Rj6rNR8zIlUUDCs1OyPmW",
+          "name": "MYA",
+          "genres": [
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "32AuV4BxATEf2i7YVhIjht",
+          "name": "Robleis",
+          "genres": [
+            "argentine trap"
+          ]
+        }
       ],
       "spotify_id": "1xxtsuafCIJm7WPQ1tdDDi"
     },
     {
       "name": "Antes de Ti",
       "artists": [
-        "Rusherking",
-        "Maria Becerra"
+        {
+          "id": "3Apb2lGmGJaBmr0TTBJvIZ",
+          "name": "Rusherking",
+          "genres": [
+            "argentine trap",
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "1DxLCyH42yaHKGK3cl5bvG",
+          "name": "Maria Becerra",
+          "genres": [
+            "argentine trap"
+          ]
+        }
       ],
       "spotify_id": "23R68uWGdp07SwQdK8mWzI"
     },
     {
       "name": "Pa Los Gustos Los Colores",
       "artists": [
-        "Javiielo"
+        {
+          "id": "3HH6yOn1yJNZo3RY5zEfy5",
+          "name": "Javiielo",
+          "genres": [
+            "rkt",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "6Bd9rs5gv25asdPDRog3ce"
     },
     {
       "name": "El Plan",
       "artists": [
-        "Rusherking",
-        "L-Gante",
-        "Emilia"
+        {
+          "id": "3Apb2lGmGJaBmr0TTBJvIZ",
+          "name": "Rusherking",
+          "genres": [
+            "argentine trap",
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "4YYxffPVDFe9XoqqbRW6Bq",
+          "name": "L-Gante",
+          "genres": [
+            "rkt",
+            "turreo",
+            "argentine trap"
+          ]
+        },
+        {
+          "id": "0AqlFI0tz2DsEoJlKSIiT9",
+          "name": "Emilia",
+          "genres": [
+            "argentine trap"
+          ]
+        }
       ],
       "spotify_id": "7kwWynCThNe0IhUTxjRxtW"
     },
     {
       "name": "Qu\u00e9 Le Pasa a Mi Ex - Remix",
       "artists": [
-        "Andy Rivera",
-        "Feid"
+        {
+          "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+          "name": "Andy Rivera",
+          "genres": [
+            "reggaeton",
+            "popular colombian music",
+            "trap latino"
+          ]
+        },
+        {
+          "id": "2LRoIwlKmHjgvigdNGBHNo",
+          "name": "Feid",
+          "genres": [
+            "reggaeton",
+            "urbano latino"
+          ]
+        }
       ],
       "spotify_id": "1Kkx5Ux2mJPzGFc1GMDXdV"
     },
     {
       "name": "Primera Cita",
       "artists": [
-        "Car\u00edn Le\u00f3n"
+        {
+          "id": "66ihevNkSYNzRAl44dx6jJ",
+          "name": "Car\u00edn Le\u00f3n",
+          "genres": [
+            "banda",
+            "norte\u00f1o",
+            "sierre\u00f1o",
+            "corrido",
+            "grupera",
+            "ranchera",
+            "sad sierre\u00f1o",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "name": "M.A (Mejores Amigos)",
       "artists": [
-        "BM",
-        "Phontana"
+        {
+          "id": "5TP8Ubo4jLKEi4Mw2O8fAk",
+          "name": "BM",
+          "genres": [
+            "rkt",
+            "turreo",
+            "cuarteto",
+            "cumbia"
+          ]
+        },
+        {
+          "id": "41BZwHjzWGfT4wsOP3yZOz",
+          "name": "Phontana",
+          "genres": [
+            "rkt",
+            "turreo",
+            "cumbia"
+          ]
+        }
       ],
       "spotify_id": "1eIDsKCLwZF6CJK8pOgHX5"
     },
     {
       "name": "Me Gustas",
       "artists": [
-        "Jisa"
+        {
+          "id": "1eW3fgEEXYMqD2jc6EWEZs",
+          "name": "Jisa",
+          "genres": []
+        }
       ],
       "spotify_id": "6ORIeEUoviLVAC7lfNJfbd"
     },
     {
       "name": "Ni Me Debes Ni Te Debo",
       "artists": [
-        "Car\u00edn Le\u00f3n",
-        "Camilo"
+        {
+          "id": "66ihevNkSYNzRAl44dx6jJ",
+          "name": "Car\u00edn Le\u00f3n",
+          "genres": [
+            "banda",
+            "norte\u00f1o",
+            "sierre\u00f1o",
+            "corrido",
+            "grupera",
+            "ranchera",
+            "sad sierre\u00f1o",
+            "m\u00fasica mexicana"
+          ]
+        },
+        {
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "3Zin1vaMx7PjFWIOBTE4FM"
     },
     {
       "name": "Un Beso Y Una Flor",
       "artists": [
-        "Nino Bravo"
+        {
+          "id": "03zz3zpyV15ZGw1cgjZ7tj",
+          "name": "Nino Bravo",
+          "genres": []
+        }
       ],
       "spotify_id": "5IU4JO2cpa0wPK8oQWFfCr"
     },
     {
       "name": "Como Lo Hacia Yo (Official Remix)",
       "artists": [
-        "Ken-Y",
-        "Nicky Jam",
-        "Zion",
-        "Arc\u00e1ngel"
+        {
+          "id": "4DYFVNKZ1uixa6SQTvzQwJ",
+          "name": "Ken-Y",
+          "genres": [
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "1SupJlEpv7RS2tPNRaHViT",
+          "name": "Nicky Jam",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        },
+        {
+          "id": "1pgDilWYDWLoOgGjf1iHNu",
+          "name": "Zion",
+          "genres": [
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "4SsVbpTthjScTS7U2hmr1X",
+          "name": "Arc\u00e1ngel",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino"
+          ]
+        }
       ],
       "spotify_id": "2d1Bkco7bbFw050xDvZqQ1"
     },
     {
       "name": "Cae el Sol",
       "artists": [
-        "Airbag"
+        {
+          "id": "1wKDGglKV4FsFS85r2Dmpr",
+          "name": "Airbag",
+          "genres": [
+            "argentine rock"
+          ]
+        }
       ],
       "spotify_id": "2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "name": "Lealtad",
       "artists": [
-        "Dave Bola\u00f1o"
+        {
+          "id": "6kfMprr3qI5Bg2JNSGU7l7",
+          "name": "Dave Bola\u00f1o",
+          "genres": [
+            "colombian pop"
+          ]
+        }
       ],
       "spotify_id": "00upaXo7vjKRiqKZXeTJgK"
     },
     {
       "name": "Por el Resto de Tu Vida",
       "artists": [
-        "Christian Nodal",
-        "TINI"
+        {
+          "id": "0XwVARXT135rw8lyw1EeWP",
+          "name": "Christian Nodal",
+          "genres": [
+            "banda",
+            "ranchera",
+            "mariachi",
+            "norte\u00f1o",
+            "m\u00fasica mexicana",
+            "grupera"
+          ]
+        },
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "name": "Coro de Amor",
       "artists": [
-        "Emilio",
-        "Karol Sevilla"
+        {
+          "id": "63AURDJ3zaxKaBcrm9q74B",
+          "name": "Emilio",
+          "genres": []
+        },
+        {
+          "id": "6aBoKzSTjuIi0sY69XHLk3",
+          "name": "Karol Sevilla",
+          "genres": []
+        }
       ],
       "spotify_id": "3n87suj86yX3ywoUBZUFyy"
     },
     {
       "name": "Flowers",
       "artists": [
-        "Miley Cyrus"
+        {
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "genres": []
+        }
       ],
       "spotify_id": "0yLdNVWF3Srea0uzk55zFn"
     },
     {
       "name": "Period (From \"Full Metal Alchemist\")",
       "artists": [
-        "Studio Yuraki"
+        {
+          "id": "56JYkwyKyOMRSSKgbiaGCP",
+          "name": "Studio Yuraki",
+          "genres": [
+            "anime"
+          ]
+        }
       ],
       "spotify_id": "5DHof7FIJHeFpJgSOpbpZI"
     },
     {
       "name": "Gotitas De Amor",
       "artists": [
-        "Yan Collazo",
-        "Chiquito Team Band"
+        {
+          "id": "6D9rSZLgUiBRupCIsfhErW",
+          "name": "Yan Collazo",
+          "genres": [
+            "salsa",
+            "salsa choke"
+          ]
+        },
+        {
+          "id": "0vEYOFlkqy2FUy1UOF7RiV",
+          "name": "Chiquito Team Band",
+          "genres": [
+            "salsa",
+            "merengue"
+          ]
+        }
       ],
       "spotify_id": "4NRDTcDgY6MFE0YvJopyrt"
     },
     {
       "name": "Give Me A Kiss",
       "artists": [
-        "Crash Adams"
+        {
+          "id": "6d8NscVVbeMVINZwJDOoN5",
+          "name": "Crash Adams",
+          "genres": []
+        }
       ],
       "spotify_id": "0ocf3HwWhrXtA8r63Vcd2h"
     },
     {
       "name": "Volver a Verte (feat. Cali y El Dandee)",
       "artists": [
-        "Fonseca",
-        "Cali Y El Dandee"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "5AEe2QNDyG1u0bujk7LrgQ"
     },
     {
       "name": "Ac\u00e9rcate",
       "artists": [
-        "TINI"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0iMa8G7ODf8szyruUYtnz1"
     },
     {
       "name": "Si me dices que s\u00ed (feat. Nicky Jam)",
       "artists": [
-        "Cosculluela",
-        "Nicky Jam"
+        {
+          "id": "00me4Ke1LsvMxt5kydlMyU",
+          "name": "Cosculluela",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "latin hip hop"
+          ]
+        },
+        {
+          "id": "1SupJlEpv7RS2tPNRaHViT",
+          "name": "Nicky Jam",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "3noN1TxpjbjjmKqssghvg8"
     },
     {
       "name": "Bam Bam (feat. Ed Sheeran)",
       "artists": [
-        "Camila Cabello",
-        "Ed Sheeran"
+        {
+          "id": "4nDoRrQiYLoBzwC5BhVJzF",
+          "name": "Camila Cabello",
+          "genres": []
+        },
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "name": "Un Beso en Madrid",
       "artists": [
-        "TINI",
-        "Alejandro Sanz"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5sUrlPAHlS9NEirDB8SEbF",
+          "name": "Alejandro Sanz",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0KTwYI4vwidX9qip7ViAEQ"
     },
     {
       "name": "Malibu",
       "artists": [
-        "Cali Y El Dandee"
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "1An91dzcVTS96yP3a7F495"
     },
     {
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "artists": [
-        "Ed Sheeran",
-        "Taylor Swift"
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "genres": [
+            "soft pop"
+          ]
+        },
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "name": "Let's Fall in Love for the Night",
       "artists": [
-        "FINNEAS"
+        {
+          "id": "37M5pPGs6V1fchFJSgCguX",
+          "name": "FINNEAS",
+          "genres": []
+        }
       ],
       "spotify_id": "7kQkmyoHCEqwe7QwDbkSXM"
     },
     {
       "name": "Insta (Remix)",
       "artists": [
-        "Lauta",
-        "MYA",
-        "Rombai"
+        {
+          "id": "5ELYwDwhy00ecTXhfsKWci",
+          "name": "Lauta",
+          "genres": []
+        },
+        {
+          "id": "5Rj6rNR8zIlUUDCs1OyPmW",
+          "name": "MYA",
+          "genres": [
+            "cuarteto"
+          ]
+        },
+        {
+          "id": "5KQX0Ui06LVm6PApyicRFK",
+          "name": "Rombai",
+          "genres": [
+            "cumbia"
+          ]
+        }
       ],
       "spotify_id": "0gxhUyP2209L93dulybrne"
     },
     {
       "name": "Tu H\u00e9roe",
       "artists": [
-        "Piso 21"
+        {
+          "id": "4bw2Am3p9ji3mYsXNXtQcd",
+          "name": "Piso 21",
+          "genres": [
+            "reggaeton",
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "5ID9OcOU7EwpGYDKzyQHPg"
     },
     {
       "name": "Te Quiero Baby (I Love You Baby)",
       "artists": [
-        "Chesca",
-        "Pitbull",
-        "Frankie Valli"
+        {
+          "id": "7DgpPXntG6DkNR4hCi4PjP",
+          "name": "Chesca",
+          "genres": [
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "0TnOYISbd1XYRBk9myaseg",
+          "name": "Pitbull",
+          "genres": []
+        },
+        {
+          "id": "3CDKmzJu6uwEGnPLLZffpD",
+          "name": "Frankie Valli",
+          "genres": []
+        }
       ],
       "spotify_id": "4oANXev8qjD156oq0E2ToD"
     },
     {
       "name": "TEL\u00c9FONO - Remix",
       "artists": [
-        "Aitana",
-        "Lele Pons"
+        {
+          "id": "7eLcDZDYHXZCebtQmVFL25",
+          "name": "Aitana",
+          "genres": []
+        },
+        {
+          "id": "6i3DxIlAqnDkwELLw4aVrx",
+          "name": "Lele Pons",
+          "genres": []
+        }
       ],
       "spotify_id": "4u7RRp96UNZUE2mkOvGzfh"
     },
     {
       "name": "Si Yo Estoy Loco",
       "artists": [
-        "Sanluis",
-        "Fonseca"
+        {
+          "id": "3b2zi4PtiILG4Iyswyk4LW",
+          "name": "Sanluis",
+          "genres": []
+        },
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4IK4EszBJ2wzMuwNGh1YzF"
     },
     {
       "name": "Flores",
       "artists": [
-        "TINI"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4WjtEdWL0JnxlWo80LpTr6"
     },
     {
       "name": "Bad Habits",
       "artists": [
-        "Ed Sheeran"
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "6PQ88X9TkUIAUIZJHW2upE"
     },
     {
       "name": "Me Haces Falta",
       "artists": [
-        "Andy Rivera"
+        {
+          "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+          "name": "Andy Rivera",
+          "genres": [
+            "reggaeton",
+            "popular colombian music",
+            "trap latino"
+          ]
+        }
       ],
       "spotify_id": "0En2Bf2GLo9E8M2fXqY3oo"
     },
     {
       "name": "Millones",
       "artists": [
-        "Camilo"
+        {
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "artists": [
-        "Selena Gomez",
-        "Rauw Alejandro"
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez",
+          "genres": []
+        },
+        {
+          "id": "1mcTU81TzQhprhouKaTkpq",
+          "name": "Rauw Alejandro",
+          "genres": [
+            "reggaeton",
+            "urbano latino",
+            "trap latino",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "0D75ciM842cdUMKSMfAR9y"
     },
     {
       "name": "Memories",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "1YekgZi6E9eInBG3O5Fw66"
     },
     {
       "name": "You're the One",
       "artists": [
-        "The Vogues"
+        {
+          "id": "0Ma8KxtvoIDSU5fHtuTS9F",
+          "name": "The Vogues",
+          "genres": [
+            "doo-wop"
+          ]
+        }
       ],
       "spotify_id": "29Xdknl9fhRsV0oOYyQOKy"
     },
     {
       "name": "Happier",
       "artists": [
-        "Marshmello",
-        "Bastille"
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello",
+          "genres": [
+            "edm"
+          ]
+        },
+        {
+          "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+          "name": "Bastille",
+          "genres": []
+        }
       ],
       "spotify_id": "2dpaYNEQHiRxtZbfNsse99"
     },
     {
       "name": "Camino a Tu Casa",
       "artists": [
-        "Fonseca",
-        "Andr\u00e9s Cepeda"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "49Z1AvGeUaBSanPaOmplK6",
+          "name": "Andr\u00e9s Cepeda",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "393V5KfcKuYdlQ5BvS97Zm"
     },
     {
       "name": "Primer Avi\u00f3n",
       "artists": [
-        "Matisse",
-        "Camilo"
+        {
+          "id": "77aLk6J8ofnVxa1eXK9jiU",
+          "name": "Matisse",
+          "genres": []
+        },
+        {
+          "id": "28gNT5KBp7IjEOQoevXf9N",
+          "name": "Camilo",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "1CaBwYdWhxUeE4j3w0WqbL"
     },
     {
       "name": "Raindrops Keep Fallin' On My Head",
       "artists": [
-        "B.J. Thomas"
+        {
+          "id": "0uUNzXylqsZdmFDwdxaP1V",
+          "name": "B.J. Thomas",
+          "genres": []
+        }
       ],
       "spotify_id": "0zRtBDhwtIFTfoK2HuURbM"
     },
     {
       "name": "Desesperado (Voy A Tomar)",
       "artists": [
-        "Joey Montana",
-        "Greeicy",
-        "Cali Y El Dandee"
+        {
+          "id": "3ATyg4fGC9F8trfb0GRWmX",
+          "name": "Joey Montana",
+          "genres": [
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "5dbaLmK5SHLLg8Z4CcTJpX",
+          "name": "Greeicy",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        },
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "4tvtsvgrIksr7iqzPeADXB"
     },
     {
       "name": "Dices Que Te Vas",
       "artists": [
-        "KAROL G",
-        "Anuel AA"
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "genres": [
+            "reggaeton",
+            "latin",
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "2R21vXR83lH98kGeO99Y66",
+          "name": "Anuel AA",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "0MS2BebzCJyJ0o61M0ze8x"
     },
     {
       "name": "Qui\u00e9n Dir\u00eda",
       "artists": [
-        "Johan Sotelo"
+        {
+          "id": "4EgDDojMyrVB4MxP7nAevd",
+          "name": "Johan Sotelo",
+          "genres": []
+        }
       ],
       "spotify_id": "4N8442HkjSJAbohpXWuVAW"
     },
     {
       "name": "Te Hubieras Ido Antes",
       "artists": [
-        "Reik"
+        {
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5QjZoU6nJltuKbBkwCog9M"
     },
     {
       "name": "Patience",
       "artists": [
-        "Guns N' Roses"
+        {
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "genres": [
+            "rock",
+            "glam metal",
+            "hard rock",
+            "classic rock"
+          ]
+        }
       ],
       "spotify_id": "7D5n2kpYH2WSqIyEO9MeXf"
     },
     {
       "name": "Vuelve",
       "artists": [
-        "Sebastian Yatra",
-        "Beret"
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "0ZHPrnImGh4re3TbSNkoZl",
+          "name": "Beret",
+          "genres": []
+        }
       ],
       "spotify_id": "0qu3nUjo4f2Sw4MinGcrQB"
     },
     {
       "name": "Por Que Te Vas",
       "artists": [
-        "TINI",
-        "Cali Y El Dandee"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "70c9sdkTnDiehSDOCxCnDc"
     },
     {
       "name": "Pero Te Conoc\u00ed",
       "artists": [
-        "Reik"
+        {
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3GoZFM9oqXO68BQXBA1Czv"
     },
     {
       "name": "Necesito un Amor",
       "artists": [
-        "Hnos Yaipen"
+        {
+          "id": "1MD1SEYZh3dbCa2M7YVjPg",
+          "name": "Hnos Yaipen",
+          "genres": [
+            "cumbia",
+            "chicha",
+            "huayno",
+            "cumbia norte\u00f1a"
+          ]
+        }
       ],
       "spotify_id": "2lo3RrKfwqrIQfD6JBJyfX"
     },
     {
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "artists": [
-        "Danna Paola"
+        {
+          "id": "5xSx2FM8mQnrfgM1QsHniB",
+          "name": "Danna Paola",
+          "genres": []
+        }
       ],
       "spotify_id": "0XqrUP3FtwDgWHBQQHYxWO"
     },
     {
       "name": "Photograph",
       "artists": [
-        "Alex Goot",
-        "ATC"
+        {
+          "id": "66Fb5gJ9SX2WGlqDLUpjux",
+          "name": "Alex Goot",
+          "genres": [
+            "nightcore",
+            "acoustic pop"
+          ]
+        },
+        {
+          "id": "74ZHOTPP0eWWe9kLt8jHbP",
+          "name": "ATC",
+          "genres": []
+        }
       ],
       "spotify_id": "1D4EuJWx7f2W7RgXO149zw"
     },
     {
       "name": "Abr\u00e1zame",
       "artists": [
-        "Iv\u00e1n Piana"
+        {
+          "id": "6IOTd1k3YfdOwl45LrIgd6",
+          "name": "Iv\u00e1n Piana",
+          "genres": []
+        }
       ],
       "spotify_id": "10z3pdFW8RmmuZfm0lxfcL"
     },
     {
       "name": "Mi vida no tiene sentido",
       "artists": [
-        "Hey Hey Camaguey"
+        {
+          "id": "0DOadkS5Kr2hnrkkGCS9uo",
+          "name": "Hey Hey Camaguey",
+          "genres": [
+            "timba",
+            "salsa"
+          ]
+        }
       ],
       "spotify_id": "4GDCRCemSzCi2y6JaOxJR4"
     },
     {
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "artists": [
-        "Kid Cudi",
-        "MGMT",
-        "Ratatat",
-        "Steve Aoki"
+        {
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "genres": []
+        },
+        {
+          "id": "0SwO7SWeDHJijQ3XNS7xEE",
+          "name": "MGMT",
+          "genres": [
+            "indie"
+          ]
+        },
+        {
+          "id": "57dN52uHvrHOxijzpIgu3E",
+          "name": "Ratatat",
+          "genres": []
+        },
+        {
+          "id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "Steve Aoki",
+          "genres": [
+            "electro house",
+            "edm"
+          ]
+        }
       ],
       "spotify_id": "5PX4uS1LqlWEPL69phPVQQ"
     },
     {
       "name": "D\u00f3nde Est\u00e1 el Amor",
       "artists": [
-        "Afrodisiaco"
+        {
+          "id": "184bX1ApmIMyWU3TcpTy93",
+          "name": "Afrodisiaco",
+          "genres": [
+            "mexican ska",
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "5GnRzPYfKsnrvnxVDT8OUJ"
     },
     {
       "name": "Como Te Puedo Entender",
       "artists": [
-        "Fonseca",
-        "Andr\u00e9s Cepeda"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "49Z1AvGeUaBSanPaOmplK6",
+          "name": "Andr\u00e9s Cepeda",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "6bM1DmAt02lFECMQLgA2s4"
     },
     {
       "name": "Los Malaventurados No Lloran",
       "artists": [
-        "PXNDX"
+        {
+          "id": "5NNlkZBrBpOJ7C11JwVxIj",
+          "name": "PXNDX",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "mexican rock",
+            "latin rock"
+          ]
+        }
       ],
       "spotify_id": "66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "name": "I Wanna Get Lost With You",
       "artists": [
-        "Stereophonics"
+        {
+          "id": "21UJ7PRWb3Etgsu99f8yo8",
+          "name": "Stereophonics",
+          "genres": [
+            "britpop"
+          ]
+        }
       ],
       "spotify_id": "16GrAa93uAWWSgzev3Eyi3"
     },
     {
       "name": "Spirits",
       "artists": [
-        "We The Lion",
-        "Ezio Oliva",
-        "Nico Saba",
-        "Donnie Yaip\u00e9n",
-        "Mayra Go\u00f1i",
-        "Stephanie Cayo",
-        "Joaqu\u00edn Arambur\u00fa",
-        "Susana Baca",
-        "Gisella Ponce de Le\u00f3n",
-        "Renata Flores"
+        {
+          "id": "0D8xIv7lt4m33tauA1HP0z",
+          "name": "We The Lion",
+          "genres": []
+        },
+        {
+          "id": "7MP3vdAhPGxCkUVgOP1Nln",
+          "name": "Ezio Oliva",
+          "genres": [
+            "salsa",
+            "timba",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "4ZyzduBCECJgRfPXhnsOV6",
+          "name": "Nico Saba",
+          "genres": [
+            "latin indie"
+          ]
+        },
+        {
+          "id": "10TtTOiAKVg90tk6VtnaxP",
+          "name": "Donnie Yaip\u00e9n",
+          "genres": [
+            "cumbia norte\u00f1a",
+            "cumbia"
+          ]
+        },
+        {
+          "id": "1JKrt7a4sLz6t0cYXBaTxB",
+          "name": "Mayra Go\u00f1i",
+          "genres": []
+        },
+        {
+          "id": "78klc0wSv3Ls367ihM9L92",
+          "name": "Stephanie Cayo",
+          "genres": []
+        },
+        {
+          "id": "4RMNQcdzYh3uV98W0GKul1",
+          "name": "Joaqu\u00edn Arambur\u00fa",
+          "genres": []
+        },
+        {
+          "id": "1DiaZsjdOzFCdk7Dw9KIs0",
+          "name": "Susana Baca",
+          "genres": [
+            "latin folk",
+            "latin folklore",
+            "nueva trova"
+          ]
+        },
+        {
+          "id": "2uZ2dPj9P7VhvaAsKxcQAd",
+          "name": "Gisella Ponce de Le\u00f3n",
+          "genres": []
+        },
+        {
+          "id": "3TZtFZu2rmUnoE0kr8QxdT",
+          "name": "Renata Flores",
+          "genres": []
+        }
       ],
       "spotify_id": "6SZolMIWmbbaGzmf8adxN2"
     },
     {
       "name": "Te Entrego Mi Coraz\u00f3n",
       "artists": [
-        "Fonseca",
-        "Andr\u00e9s Cepeda"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "49Z1AvGeUaBSanPaOmplK6",
+          "name": "Andr\u00e9s Cepeda",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "30gVDzAZXL7WFiKc08LIR4"
     },
     {
       "name": "Lost Stars",
       "artists": [
-        "Adam Levine"
+        {
+          "id": "4bYPcJP5jwMhSivRcqie2n",
+          "name": "Adam Levine",
+          "genres": []
+        }
       ],
       "spotify_id": "1ejtHfSXQwvaAU7F82FXww"
     },
     {
       "name": "Lay Me Down",
       "artists": [
-        "Avicii"
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "genres": [
+            "edm"
+          ]
+        }
       ],
       "spotify_id": "5iKOpf0SZDSGkJRhkwgSrl"
     },
     {
       "name": "Mi Vuelo",
       "artists": [
-        "Fonseca",
-        "Andr\u00e9s Cepeda"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "49Z1AvGeUaBSanPaOmplK6",
+          "name": "Andr\u00e9s Cepeda",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "2FhJ1jNfLFY3sEmrEBgH1q"
     },
     {
       "name": "Te Quiero M\u00e1s",
       "artists": [
-        "TINI",
-        "Nacho"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "2ayNSoKPCRAfjp6hQ76hRu",
+          "name": "Nacho",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "6fUxjpkdzip1MObtLaSgKQ"
     },
     {
       "name": "22",
       "artists": [
-        "TINI",
-        "Greeicy"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5dbaLmK5SHLLg8Z4CcTJpX",
+          "name": "Greeicy",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "07L6tEZIfCX3GZAWCpGj0e"
     },
     {
       "name": "Fresa",
       "artists": [
-        "TINI",
-        "Lalo Ebratt"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "1GAymyGBvB4gQy5Z5LZ1Wj",
+          "name": "Lalo Ebratt",
+          "genres": [
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "4BCPItsB94KDLuERZT3aNM"
     },
     {
       "name": "Su\u00e9ltate El Pelo",
       "artists": [
-        "TINI"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "7dK9ncfHtROhbYCtElBqfU"
     },
     {
       "name": "Diciembre",
       "artists": [
-        "TINI"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3rwWcmmKQsXWfEfKzi4X2S"
     },
     {
       "name": "Recuerdo",
       "artists": [
-        "TINI",
-        "Mau y Ricky"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "2wkoKEfS6dXwThbyTnZWFU",
+          "name": "Mau y Ricky",
+          "genres": [
+            "reggaeton",
+            "latin pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "3DjInVTE03icrWsq2UZV9n"
     },
     {
       "name": "Perdiendo la Cabeza",
       "artists": [
-        "Carlos Rivera",
-        "Becky G",
-        "Pedro Cap\u00f3"
+        {
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "4obzFoKoKRHIphyHzJ35G3",
+          "name": "Becky G",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        },
+        {
+          "id": "4QVBYiagIaa6ZGSPMbybpy",
+          "name": "Pedro Cap\u00f3",
+          "genres": [
+            "latin pop",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "2GTCK8zYHwkcu0i0jtKjFz"
     },
     {
       "name": "Quiero Volver",
       "artists": [
-        "TINI",
-        "Sebastian Yatra"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "1jcAZRfufvi67KWnwRmizE"
     },
     {
       "name": "Consejo de Amor",
       "artists": [
-        "TINI",
-        "Morat"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5C4PDR4LnhZTbVnKWXuDKD",
+          "name": "Morat",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3za3hxbolwmy9AeUpWzuRE"
     },
     {
       "name": "Can't Help Falling in Love",
       "artists": [
-        "Boyce Avenue"
+        {
+          "id": "7CQwac16i1W5ej8YpuL3dv",
+          "name": "Boyce Avenue",
+          "genres": [
+            "acoustic pop"
+          ]
+        }
       ],
       "spotify_id": "2lBarFAEBfCFBiQ10iE12M"
     },
     {
       "name": "If I Let You Go - Radio Edit",
       "artists": [
-        "Westlife"
+        {
+          "id": "5Z1CCuBsyhEHngq3U5IraY",
+          "name": "Westlife",
+          "genres": []
+        }
       ],
       "spotify_id": "5giCRvTkp5GV5UIAORAOof"
     },
     {
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "artists": [
-        "Carlos Baute",
-        "Marta S\u00e1nchez"
+        {
+          "id": "3smfreCkyJt7bShaTYpG77",
+          "name": "Carlos Baute",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "368rTiMKMrz3b03az6B14w",
+          "name": "Marta S\u00e1nchez",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "name": "Tanto",
       "artists": [
-        "Jesse & Joy",
-        "Luis Fonsi"
+        {
+          "id": "1mX1TWKpNxDSAH16LgDfiR",
+          "name": "Jesse & Joy",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "3bCuNSiaBHqxdevMYEnGpe"
     },
     {
       "name": "Esa S\u00ed Es Una Mujer",
       "artists": [
-        "Christian Meier"
+        {
+          "id": "3OgfCHk8YwaZ7NjQHbL4f3",
+          "name": "Christian Meier",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "5zruPoX0RLhXOIJmin8Odx"
     },
     {
       "name": "Hold My Hand (with Akon)",
       "artists": [
-        "Michael Jackson",
-        "Akon"
+        {
+          "id": "3fMbdgg4jU18AjLCKBhRSm",
+          "name": "Michael Jackson",
+          "genres": []
+        },
+        {
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "genres": []
+        }
       ],
       "spotify_id": "0pCyoA5o2uxUwIovECCziF"
     },
     {
       "name": "Coraz\u00f3n De Hojalata",
       "artists": [
-        "Camilo Echeverry"
+        {
+          "id": "3mJdi0G6tANVMvDmLSDVf8",
+          "name": "Camilo Echeverry",
+          "genres": []
+        }
       ],
       "spotify_id": "3WcAYbd36yHMDsVu0QjBrs"
     },
     {
       "name": "Como Enamoraban Antes",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "2uAu7cL2SCVlo1MhKY9YLP"
     },
     {
       "name": "En Peligro de Extinci\u00f3n",
       "artists": [
-        "Bembe Orquesta",
-        "Farik Grippa"
+        {
+          "id": "6fsXrJHIeY3ukc4xVP23cP",
+          "name": "Bembe Orquesta",
+          "genres": [
+            "salsa",
+            "timba"
+          ]
+        },
+        {
+          "id": "00Xr47kjidyk1Kimx2Ypd2",
+          "name": "Farik Grippa",
+          "genres": [
+            "salsa",
+            "timba"
+          ]
+        }
       ],
       "spotify_id": "6NFqonbFp2QhnJIh7cE2s3"
     },
     {
       "name": "Duele",
       "artists": [
-        "Reik",
-        "Wisin & Yandel"
+        {
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "1wZtkThiXbVNtj6hee6dz9",
+          "name": "Wisin & Yandel",
+          "genres": [
+            "reggaeton",
+            "urbano latino"
+          ]
+        }
       ],
       "spotify_id": "3NncP0ajz9lqYAZcQD7Bpo"
     },
     {
       "name": "Simples Corazones",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "13vkcX5tmzimIS5Hr17ZJ1"
     },
     {
       "name": "Mitad Mentira, Mitad Verdad",
       "artists": [
-        "R\u00edo Roma",
-        "Andy Rivera"
+        {
+          "id": "2O3v9rCTzLhPFaGaAVgZLt",
+          "name": "R\u00edo Roma",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+          "name": "Andy Rivera",
+          "genres": [
+            "reggaeton",
+            "popular colombian music",
+            "trap latino"
+          ]
+        }
       ],
       "spotify_id": "5YpbeNBco1kDTt58JCjBn7"
     },
     {
       "name": "Oye",
       "artists": [
-        "TINI",
-        "Sebastian Yatra"
+        {
+          "id": "7vXDAI8JwjW531ouMGbfcp",
+          "name": "TINI",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "09nSCeCs6eYfAIJVfye1CE"
     },
     {
       "name": "Romeo y Julieta",
       "artists": [
-        "Aventuraz"
+        {
+          "id": "6tsekclxVv6fQi2lH7g2Ya",
+          "name": "Aventuraz",
+          "genres": []
+        }
       ],
       "spotify_id": "5UhvMT5rwQm351NOOKOtFU"
     },
     {
       "name": "Lover",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "0bzbvANY6oETSJLc0wlVGY"
     },
     {
       "name": "Departure!",
       "artists": [
-        "Masatoshi Ono"
+        {
+          "id": "2R1ubdXY4sUiDqsCtoAVUE",
+          "name": "Masatoshi Ono",
+          "genres": [
+            "anime"
+          ]
+        }
       ],
       "spotify_id": "5sjoJa0YmBCCPMrBPsBMge"
     },
     {
       "name": "Your Song (My One and Only You)",
       "artists": [
-        "Julie Anne San Jose"
+        {
+          "id": "4NeCu267LZemnoq44lZYKy",
+          "name": "Julie Anne San Jose",
+          "genres": [
+            "opm",
+            "p-pop"
+          ]
+        }
       ],
       "spotify_id": "5Seh4HfqT1mFnRJQswqz51"
     },
     {
       "name": "Everything I Need",
       "artists": [
-        "Skylar Grey"
+        {
+          "id": "4utLUGcTvOJFr6aqIJtYWV",
+          "name": "Skylar Grey",
+          "genres": []
+        }
       ],
       "spotify_id": "29HvCc31h9XemzbR82Skgb"
     },
     {
       "name": "I Like Me Better",
       "artists": [
-        "Lauv"
+        {
+          "id": "5JZ7CnR6gTvEMKX4g70Amv",
+          "name": "Lauv",
+          "genres": []
+        }
       ],
       "spotify_id": "1wjzFQodRWrPcQ0AnYnvQ9"
     },
     {
       "name": "Little Do You Know",
       "artists": [
-        "Jules LeBlanc",
-        "Hayden Summerall"
+        {
+          "id": "0MhjpGnrxp2pkd78xbcoWM",
+          "name": "Jules LeBlanc",
+          "genres": []
+        },
+        {
+          "id": "0quK92xqylCdVBzhTWLaTb",
+          "name": "Hayden Summerall",
+          "genres": []
+        }
       ],
       "spotify_id": "3fToxtMS9O52sP4ZTV5yqm"
     },
     {
       "name": "Umbrella",
       "artists": [
-        "Ember Island"
+        {
+          "id": "1I5eQkzyM8jCVZIM3k2bKL",
+          "name": "Ember Island",
+          "genres": []
+        }
       ],
       "spotify_id": "2FX5HPP1FNNuLlt2UU9os7"
     },
     {
       "name": "Zombie",
       "artists": [
-        "The Cranberries"
+        {
+          "id": "7t0rwkOPGlDPEhaOcVtOt9",
+          "name": "The Cranberries",
+          "genres": []
+        }
       ],
       "spotify_id": "2IZZqH4K02UIYg5EohpNHF"
     },
     {
       "name": "Warriors",
       "artists": [
-        "Nicky Romero",
-        "Volt & State"
+        {
+          "id": "5ChF3i92IPZHduM7jN3dpg",
+          "name": "Nicky Romero",
+          "genres": [
+            "big room",
+            "edm",
+            "electro house",
+            "progressive house"
+          ]
+        },
+        {
+          "id": "1qHD7NdzvjBXQwb7rms3lD",
+          "name": "Volt & State",
+          "genres": [
+            "progressive house"
+          ]
+        }
       ],
       "spotify_id": "3GeYwUPqUOzRjwbO1WVlBe"
     },
     {
       "name": "Still The One (Mix Cut)",
       "artists": [
-        "Hardwell",
-        "Kill The Buzz",
-        "Max Collins"
+        {
+          "id": "6BrvowZBreEkXzJQMpL174",
+          "name": "Hardwell",
+          "genres": [
+            "big room",
+            "edm",
+            "progressive house",
+            "electronica"
+          ]
+        },
+        {
+          "id": "0QZSzSj4BDYFARD2hZ7oNI",
+          "name": "Kill The Buzz",
+          "genres": [
+            "progressive house",
+            "big room"
+          ]
+        },
+        {
+          "id": "0JP3kmkFK32jTcsDEnYYAr",
+          "name": "Max Collins",
+          "genres": []
+        }
       ],
       "spotify_id": "6wclRdRBqAUF0RRopmwxVL"
     },
     {
       "name": "Imagination",
       "artists": [
-        "Shawn Mendes"
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes",
+          "genres": []
+        }
       ],
       "spotify_id": "1iDCbHDvOGDVHhtL1wCpum"
     },
     {
       "name": "Just A Kiss",
       "artists": [
-        "Lady A"
+        {
+          "id": "32WkQRZEVKSzVAAYqukAEA",
+          "name": "Lady A",
+          "genres": [
+            "country",
+            "pop country"
+          ]
+        }
       ],
       "spotify_id": "31OLRpkgpIH6a1VmVi2bpd"
     },
     {
       "name": "B\u00e9same",
       "artists": [
-        "Valentino",
-        "Manuel Turizo"
+        {
+          "id": "4GAS1OgXh8D5pEA6s6eBNW",
+          "name": "Valentino",
+          "genres": [
+            "reggaeton"
+          ]
+        },
+        {
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "genres": [
+            "reggaeton",
+            "pop urbano",
+            "latin",
+            "colombian pop"
+          ]
+        }
       ],
       "spotify_id": "3Qg6tgOrXbdbX9AFW0r4LX"
     },
     {
       "name": "Marry You",
       "artists": [
-        "Bruno Mars"
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "genres": []
+        }
       ],
       "spotify_id": "6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "name": "Siempre Has Sido Tu",
       "artists": [
-        "Ezio Oliva"
+        {
+          "id": "7MP3vdAhPGxCkUVgOP1Nln",
+          "name": "Ezio Oliva",
+          "genres": [
+            "salsa",
+            "timba",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3CF9XrsgTIL0YBryY5fRsk"
     },
     {
       "name": "Bachata Rosa",
       "artists": [
-        "Chino & Nacho"
+        {
+          "id": "5NS0854TqZQVoRmJKSWtFZ",
+          "name": "Chino & Nacho",
+          "genres": [
+            "merengue",
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "5p1QvUtD2apRxaQxf811zV"
     },
     {
       "name": "De Rodillas",
       "artists": [
-        "Lucas Arnau"
+        {
+          "id": "5vLOlJcOKe9DfBC5LeLpSs",
+          "name": "Lucas Arnau",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4zNsXvFhOrvDOdZHCdFVsB"
     },
     {
       "name": "Lo Que Dejaste Al No Volver (feat. Carlos Baute)",
       "artists": [
-        "Lucas Arnau",
-        "Carlos Baute"
+        {
+          "id": "5vLOlJcOKe9DfBC5LeLpSs",
+          "name": "Lucas Arnau",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "3smfreCkyJt7bShaTYpG77",
+          "name": "Carlos Baute",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "10w7J6oGWd8mqQblsu3XhX"
     },
     {
       "name": "Ven",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3iQ7CuG5xz2IIF4xZcUxyk"
     },
     {
       "name": "So Far From Me",
       "artists": [
-        "Brett Dennen"
+        {
+          "id": "0FC1LIeQXKib0jOwZqeIwT",
+          "name": "Brett Dennen",
+          "genres": []
+        }
       ],
       "spotify_id": "39p5GBAJ0Qk3Q17Ix5qmjh"
     },
     {
       "name": "Cielo - 2002",
       "artists": [
-        "Benny"
+        {
+          "id": "3YHFRVdfHlJ98iAc50PIYk",
+          "name": "Benny",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3xfaeVCJtqH54aZlJalvdr"
     },
     {
       "name": "Me Vas A Extra\u00f1ar",
       "artists": [
-        "N'Samble"
+        {
+          "id": "7Ksq8BTaGcbM7OgVQi3y8f",
+          "name": "N'Samble",
+          "genres": [
+            "timba",
+            "salsa"
+          ]
+        }
       ],
       "spotify_id": "7C7yDVVwhkAVxdE51sSqwI"
     },
     {
       "name": "They Don't Know About Us",
       "artists": [
-        "One Direction"
+        {
+          "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+          "name": "One Direction",
+          "genres": []
+        }
       ],
       "spotify_id": "72C7aUQECOhNtnD0AC36ua"
     },
     {
       "name": "Swear It Again - Radio Edit",
       "artists": [
-        "Westlife"
+        {
+          "id": "5Z1CCuBsyhEHngq3U5IraY",
+          "name": "Westlife",
+          "genres": []
+        }
       ],
       "spotify_id": "2x1D20z93vGEjtTP07GOOr"
     },
     {
       "name": "Te Doy Mi Vida",
       "artists": [
-        "Lucas Arnau"
+        {
+          "id": "5vLOlJcOKe9DfBC5LeLpSs",
+          "name": "Lucas Arnau",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0ltIbWognQFt70SBWi0VEh"
     },
     {
       "name": "Si Te Acuerdas De Mi",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3gnnzdeZ7mwRFi6qqVAPQX"
     },
     {
       "name": "Valio La Pena",
       "artists": [
-        "Lucas Arnau"
+        {
+          "id": "5vLOlJcOKe9DfBC5LeLpSs",
+          "name": "Lucas Arnau",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "55R0XJJ9XOwOHbSuqYmGul"
     },
     {
       "name": "Tu Enemiga",
       "artists": [
-        "Karen M\u00e9ndez",
-        "Mike Bah\u00eda"
+        {
+          "id": "0txXDZCdXBzha20sgN1GRk",
+          "name": "Karen M\u00e9ndez",
+          "genres": [
+            "bachata"
+          ]
+        },
+        {
+          "id": "1phfTBIocBW3UwqcYjaEN6",
+          "name": "Mike Bah\u00eda",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "4mswQknWVHyND99AMlXBaB"
     },
     {
       "name": "Quiere Beber",
       "artists": [
-        "Anuel AA"
+        {
+          "id": "2R21vXR83lH98kGeO99Y66",
+          "name": "Anuel AA",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "3rPAD722s5FFNnwjC91t7Z"
     },
     {
       "name": "Wake Me Up",
       "artists": [
-        "Avicii"
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "genres": [
+            "edm"
+          ]
+        }
       ],
       "spotify_id": "4h8VwCb1MTGoLKueQ1WgbD"
     },
     {
       "name": "With Or Without You",
       "artists": [
-        "U2"
+        {
+          "id": "51Blml2LZPmy7TTiAg47vQ",
+          "name": "U2",
+          "genres": [
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "0tP5ogrxKrIPKHHc0seuOr"
     },
     {
       "name": "Amigos Con Derechos",
       "artists": [
-        "Reik",
-        "Maluma"
+        {
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "1r4hJ1h58CWwUQe3MxPuau",
+          "name": "Maluma",
+          "genres": [
+            "reggaeton",
+            "latin",
+            "urbano latino"
+          ]
+        }
       ],
       "spotify_id": "2zDj4WjbNDmrRL6Z4YjjCA"
     },
     {
       "name": "You Get What You Give",
       "artists": [
-        "New Radicals"
+        {
+          "id": "0Grjlu7ncIuCaSYvCs9fcd",
+          "name": "New Radicals",
+          "genres": []
+        }
       ],
       "spotify_id": "32lF1rsInDTdK6Av3KdfaY"
     },
     {
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "artists": [
-        "Enrique Iglesias"
+        {
+          "id": "7qG3b048QCHVRO5Pv1T5lw",
+          "name": "Enrique Iglesias",
+          "genres": [
+            "latin pop",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "1Zq9cPLQ1FKvTwShBJdkr4"
     },
     {
       "name": "Ser\u00e9 Lo Que Quieras Que Sea",
       "artists": [
-        "Christian Meier"
+        {
+          "id": "3OgfCHk8YwaZ7NjQHbL4f3",
+          "name": "Christian Meier",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "2bSoHVNbTI8GMPCCxV7x44"
     },
     {
       "name": "Tu jard\u00edn con enanitos",
       "artists": [
-        "Melendi"
+        {
+          "id": "1EXjXQpDx2pROygh8zvHs4",
+          "name": "Melendi",
+          "genres": [
+            "flamenco",
+            "flamenco pop"
+          ]
+        }
       ],
       "spotify_id": "6yCjU5j6YHbux2VQCBTTE1"
     },
     {
       "name": "Y es que sucede as\u00ed",
       "artists": [
-        "Arena Hash"
+        {
+          "id": "6FJznFlHWF7ADrbAahqzBI",
+          "name": "Arena Hash",
+          "genres": []
+        }
       ],
       "spotify_id": "1RUCPYCK0A2JyiJQ1CnNtc"
     },
     {
       "name": "Vaina Loca",
       "artists": [
-        "Ozuna",
-        "Manuel Turizo"
+        {
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "latin",
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "0tmwSHipWxN12fsoLcFU3B",
+          "name": "Manuel Turizo",
+          "genres": [
+            "reggaeton",
+            "pop urbano",
+            "latin",
+            "colombian pop"
+          ]
+        }
       ],
       "spotify_id": "1s2B5cndbqK8rPJEIcKJRQ"
     },
     {
       "name": "Te Besar\u00e9 (Acoustic Version)",
       "artists": [
-        "Jonathan Moly"
+        {
+          "id": "0fAxJ75WJT3STJb3xWtpbc",
+          "name": "Jonathan Moly",
+          "genres": [
+            "salsa",
+            "timba",
+            "merengue"
+          ]
+        }
       ],
       "spotify_id": "20RIpP9Es9YFL2dNs4phkd"
     },
     {
       "name": "Si me ten\u00edas",
       "artists": [
-        "Gian Marco"
+        {
+          "id": "2gDqGAadPIPiA7LtmNn74g",
+          "name": "Gian Marco",
+          "genres": [
+            "colombian pop",
+            "trova",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "137butzvFqGMLAPxQhFN5S"
     },
     {
       "name": "Livin' On A Prayer",
       "artists": [
-        "Bon Jovi"
+        {
+          "id": "58lV9VcRSjABbAbfWS6skp",
+          "name": "Bon Jovi",
+          "genres": [
+            "glam metal",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "5OfdwNy6NtQztlVaDdreA1"
     },
     {
       "name": "Qu\u00e9date Aqu\u00ed",
       "artists": [
-        "Mike Bah\u00eda"
+        {
+          "id": "1phfTBIocBW3UwqcYjaEN6",
+          "name": "Mike Bah\u00eda",
+          "genres": [
+            "colombian pop",
+            "pop urbano"
+          ]
+        }
       ],
       "spotify_id": "40BHOcBhBU6InTXea4VRAK"
     },
     {
       "name": "Angels",
       "artists": [
-        "Robbie Williams"
+        {
+          "id": "2HcwFjNelS49kFbfvMxQYw",
+          "name": "Robbie Williams",
+          "genres": []
+        }
       ],
       "spotify_id": "7CKbqqrs0AS1si1ZgaQdcj"
     },
     {
       "name": "Devu\u00e9lveme El Coraz\u00f3n",
       "artists": [
-        "Sebastian Yatra"
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "2uWg6P3lEsS1qQ2qg11TUx"
     },
     {
       "name": "Princesa",
       "artists": [
-        "R\u00edo Roma",
-        "CNCO"
+        {
+          "id": "2O3v9rCTzLhPFaGaAVgZLt",
+          "name": "R\u00edo Roma",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "0eecdvMrqBftK0M1VKhaF4",
+          "name": "CNCO",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "6u1obi0eKnAkDgeFndGMJw"
     },
     {
       "name": "La Estrategia",
       "artists": [
-        "Cali Y El Dandee"
+        {
+          "id": "5DUlefCLzVRzNWaNURTFpK",
+          "name": "Cali Y El Dandee",
+          "genres": [
+            "colombian pop",
+            "pop urbano",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "5fqE4mcMADOX0qTuIlpLZL"
     },
     {
       "name": "The Sound of Silence",
       "artists": [
-        "Simon & Garfunkel"
+        {
+          "id": "70cRZdQywnSFp9pnc2WTCE",
+          "name": "Simon & Garfunkel",
+          "genres": [
+            "folk rock",
+            "folk"
+          ]
+        }
       ],
       "spotify_id": "2LkaNhCrNVmcYgXJeLVmsw"
     },
     {
       "name": "Tu Poeta",
       "artists": [
-        "Alex Campos"
+        {
+          "id": "6slyJwua5e5GuhuP82sTHR",
+          "name": "Alex Campos",
+          "genres": [
+            "christian",
+            "worship"
+          ]
+        }
       ],
       "spotify_id": "6iJ6tQd4EfPh5fSyuAiUVG"
     },
     {
       "name": "Mi Medicina",
       "artists": [
-        "CNCO"
+        {
+          "id": "0eecdvMrqBftK0M1VKhaF4",
+          "name": "CNCO",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "68iny0s4IkCpu5yr57sGeo"
     },
     {
       "name": "No Me Doy Por Vencido",
       "artists": [
-        "Luis Fonsi"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "3A332PPGLcGVIlNpwWf42t"
     },
     {
       "name": "Creer En M\u00ed",
       "artists": [
-        "Samo"
+        {
+          "id": "68QUssU8KffP7KmgO3Z6Ye",
+          "name": "Samo",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "14YDyOuCt68LSJQ2nQsTK2"
     },
     {
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "artists": [
-        "Reik",
-        "Ozuna",
-        "Wisin"
+        {
+          "id": "0vR2qb8m9WHeZ5ByCbimq2",
+          "name": "Reik",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "genres": [
+            "reggaeton",
+            "trap latino",
+            "latin",
+            "urbano latino"
+          ]
+        },
+        {
+          "id": "3E6xrwgnVfYCrCs0ePERDz",
+          "name": "Wisin",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "6jA8JUuPCGYjFcgw0AoM5T"
     },
     {
       "name": "Te Mando Flores",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "6OpHDI8lRiqHLqmUIYUxVr"
     },
     {
       "name": "Pinta Mi Coraz\u00f3n",
       "artists": [
-        "Fonseca"
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "1Yyl6h8fM9ZSvSJzqvfnYq"
     },
     {
       "name": "The Wind",
       "artists": [
-        "Yusuf / Cat Stevens"
+        {
+          "id": "08F3Y3SctIlsOEmKd6dnH8",
+          "name": "Yusuf / Cat Stevens",
+          "genres": [
+            "folk rock",
+            "folk",
+            "singer-songwriter"
+          ]
+        }
       ],
       "spotify_id": "1L70BbUDG0C4EJQ1ZF10sG"
     },
     {
       "name": "One Headlight",
       "artists": [
-        "The Wallflowers"
+        {
+          "id": "0jJNGWrpjGIHUdTTJiIYeB",
+          "name": "The Wallflowers",
+          "genres": []
+        }
       ],
       "spotify_id": "4AmJpaF86079ZjFVVYhFbJ"
     },
     {
       "name": "Start of Something New",
       "artists": [
-        "Vanessa Hudgens",
-        "Troy",
-        "Gabriella"
+        {
+          "id": "6G9bygHlCyPgNGxK2l3YdE",
+          "name": "Vanessa Hudgens",
+          "genres": []
+        },
+        {
+          "id": "3csbLu0Bw0GtcB8w8mZDkl",
+          "name": "Troy",
+          "genres": []
+        },
+        {
+          "id": "0o5KCcAS38WAD1uSjuLmwW",
+          "name": "Gabriella",
+          "genres": [
+            "freestyle"
+          ]
+        }
       ],
       "spotify_id": "3VpOdSmne7ZyNIyLtNW9qf"
     },
     {
       "name": "Breaking Free",
       "artists": [
-        "Vanessa Hudgens",
-        "Troy"
+        {
+          "id": "6G9bygHlCyPgNGxK2l3YdE",
+          "name": "Vanessa Hudgens",
+          "genres": []
+        },
+        {
+          "id": "5P2tdJjTlAtFWkAyjQUK0g",
+          "name": "Troy",
+          "genres": []
+        }
       ],
       "spotify_id": "3UbPqpxwxPHHgxtL4vJeo4"
     },
     {
       "name": "Fabricando Fantasias - Salsa Version",
       "artists": [
-        "Tito Nieves"
+        {
+          "id": "4vOycwLXdkMMzpZW04VW5m",
+          "name": "Tito Nieves",
+          "genres": [
+            "salsa",
+            "merengue"
+          ]
+        }
       ],
       "spotify_id": "3zOLFpLMw06vas82vcu5ug"
     },
     {
       "name": "Summer Nights",
       "artists": [
-        "Ti\u00ebsto",
-        "John Legend"
+        {
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Ti\u00ebsto",
+          "genres": [
+            "edm",
+            "trance",
+            "big room",
+            "house",
+            "dance"
+          ]
+        },
+        {
+          "id": "5y2Xq6xcjJb2jVM54GHK3t",
+          "name": "John Legend",
+          "genres": [
+            "soft pop",
+            "neo soul"
+          ]
+        }
       ],
       "spotify_id": "3IFfjjPJRbIC9f7fY9CGZx"
     },
     {
       "name": "Love Story",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "0Uc9PhfV2oP7mhXlLux6SM"
     },
     {
       "name": "Mary's Song (Oh My My My)",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "7kq6Oj1oVicXOameZr10E7"
     },
     {
       "name": "Teardrops On My Guitar",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "4tXsR2Hv3l85TQTwgEn3Um"
     },
     {
       "name": "Mine",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "4UKe8besA3ozapud4bAOug"
     },
     {
       "name": "Red",
       "artists": [
-        "Taylor Swift"
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "genres": []
+        }
       ],
       "spotify_id": "12pbmOrWJNjU0TAFZEw2G7"
     },
     {
       "name": "Perfect",
       "artists": [
-        "Simple Plan"
+        {
+          "id": "2p4FqHnazRucYQHyDCdBrJ",
+          "name": "Simple Plan",
+          "genres": [
+            "pop punk",
+            "punk",
+            "emo"
+          ]
+        }
       ],
       "spotify_id": "2TeiKDPE3RdamZG0pp5okI"
     },
     {
       "name": "Stitches",
       "artists": [
-        "Shawn Mendes"
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes",
+          "genres": []
+        }
       ],
       "spotify_id": "1WP1r7fuvRqZRnUaTi2I1Q"
     },
     {
       "name": "Traicionera",
       "artists": [
-        "Sebastian Yatra"
+        {
+          "id": "07YUOmWljBTXwIseAUd9TW",
+          "name": "Sebastian Yatra",
+          "genres": [
+            "colombian pop",
+            "reggaeton"
+          ]
+        }
       ],
       "spotify_id": "5J1c3M4EldCfNxXwrwt8mT"
     },
     {
       "name": "Stay With Me",
       "artists": [
-        "Sam Smith"
+        {
+          "id": "2wY79sveU1sp5g7SokKOiI",
+          "name": "Sam Smith",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "2whoe0pPKh4JRn6eWSIqTV"
     },
     {
       "name": "C\u00f3mo Fui?",
       "artists": [
-        "R\u00edo Roma"
+        {
+          "id": "2O3v9rCTzLhPFaGaAVgZLt",
+          "name": "R\u00edo Roma",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5I3PfZmBiTna4nHSIGLXJ4"
     },
     {
       "name": "Caminar de Tu Mano",
       "artists": [
-        "R\u00edo Roma",
-        "Fonseca"
+        {
+          "id": "2O3v9rCTzLhPFaGaAVgZLt",
+          "name": "R\u00edo Roma",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "53KTldaJ8tHSkYU3nigfwP",
+          "name": "Fonseca",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "7cCRlUf8ayOJtTlWN7g8Ni"
     },
     {
       "name": "El Amor",
       "artists": [
-        "Ricardo Arjona"
+        {
+          "id": "0h1zs4CTlU9D2QtgPxptUD",
+          "name": "Ricardo Arjona",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4DPY6KAMqfyQbaAZcr3bik"
     },
     {
       "name": "No Preguntes C\u00f3mo Estoy",
       "artists": [
-        "Ricardo Arjona"
+        {
+          "id": "0h1zs4CTlU9D2QtgPxptUD",
+          "name": "Ricardo Arjona",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "2dUZGddtslNtR6cumLqM4Y"
     },
     {
       "name": "El Cielo a Mi Favor",
       "artists": [
-        "Ricardo Arjona"
+        {
+          "id": "0h1zs4CTlU9D2QtgPxptUD",
+          "name": "Ricardo Arjona",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0BJwrbkZKf7KwlwBOJbD8i"
     },
     {
       "name": "El Que Olvida",
       "artists": [
-        "Ricardo Arjona"
+        {
+          "id": "0h1zs4CTlU9D2QtgPxptUD",
+          "name": "Ricardo Arjona",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "69dW5grE2KVwjl0ACruk0k"
     },
     {
       "name": "Trouble",
       "artists": [
-        "R3HAB",
-        "V\u00c9RIT\u00c9"
+        {
+          "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "R3HAB",
+          "genres": [
+            "slap house",
+            "edm"
+          ]
+        },
+        {
+          "id": "1Fr6agZ6iSM5Ynn2k4C8sc",
+          "name": "V\u00c9RIT\u00c9",
+          "genres": []
+        }
       ],
       "spotify_id": "4exKBPywrjt5lTMhBhpD1G"
     },
     {
       "name": "You'll Be In My Heart",
       "artists": [
-        "Phil Collins"
+        {
+          "id": "4lxfqrEsLX6N1N4OCSkILp",
+          "name": "Phil Collins",
+          "genres": [
+            "soft rock"
+          ]
+        }
       ],
       "spotify_id": "6LBfozDVA7crIeuaPAVVlE"
     },
     {
       "name": "Como Las Mariposas",
       "artists": [
-        "Pedro Su\u00e1rez-V\u00e9rtiz"
+        {
+          "id": "3Azj8v21CQ76AVvjuNv5Vg",
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock"
+          ]
+        }
       ],
       "spotify_id": "0bcf8sJ8W7IXPsnl4qYqVl"
     },
     {
       "name": "Lo Olvid\u00e9",
       "artists": [
-        "Pedro Su\u00e1rez-V\u00e9rtiz"
+        {
+          "id": "3Azj8v21CQ76AVvjuNv5Vg",
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock"
+          ]
+        }
       ],
       "spotify_id": "60a4EOs1FRjFl2LufERAHn"
     },
     {
       "name": "Si Te Vas",
       "artists": [
-        "Pedro Fern\u00e1ndez"
+        {
+          "id": "24dYJ8P3YuFihvMcElFUWh",
+          "name": "Pedro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "1PtLFJtu4Dlx6oRSa2Muoh"
     },
     {
       "name": "Hasta El Fin Del Mundo",
       "artists": [
-        "Pedro Fern\u00e1ndez"
+        {
+          "id": "24dYJ8P3YuFihvMcElFUWh",
+          "name": "Pedro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "6pcZ6r2Z03DHtochBFWtNB"
     },
     {
       "name": "Amiga Por Favor",
       "artists": [
-        "Pedro Fern\u00e1ndez"
+        {
+          "id": "24dYJ8P3YuFihvMcElFUWh",
+          "name": "Pedro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "1l0x2aErEODaNwsQu8cf86"
     },
     {
       "name": "Mi Forma De Sentir",
       "artists": [
-        "Pedro Fern\u00e1ndez"
+        {
+          "id": "24dYJ8P3YuFihvMcElFUWh",
+          "name": "Pedro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "0fwv93hNRkjY7jq6402VRl"
     },
     {
       "name": "Amarte A La Antigua",
       "artists": [
-        "Pedro Fern\u00e1ndez"
+        {
+          "id": "24dYJ8P3YuFihvMcElFUWh",
+          "name": "Pedro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "m\u00fasica mexicana"
+          ]
+        }
       ],
       "spotify_id": "2F3uqOpgyHMgljnDnj9ghL"
     },
     {
       "name": "Future Days",
       "artists": [
-        "Pearl Jam"
+        {
+          "id": "1w5Kfo2jwwIPruYS2UWh56",
+          "name": "Pearl Jam",
+          "genres": [
+            "grunge",
+            "rock",
+            "post-grunge"
+          ]
+        }
       ],
       "spotify_id": "3l2EpjN1MEGNWeUYOkraQB"
     },
     {
       "name": "Me Gusta Todo de Ti",
       "artists": [
-        "Noche de Brujas"
+        {
+          "id": "1bwsprbGyKx2vBbPAwVebl",
+          "name": "Noche de Brujas",
+          "genres": [
+            "cumbia"
+          ]
+        }
       ],
       "spotify_id": "0HApSdHyf2oo4WU4UJiTgc"
     },
     {
       "name": "Come As You Are",
       "artists": [
-        "Nirvana"
+        {
+          "id": "6olE6TJLqED3rqDCT0FyPh",
+          "name": "Nirvana",
+          "genres": [
+            "grunge",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "0MKGH8UMfCnq5w7nG06oM5"
     },
     {
       "name": "The Only Way Is Up",
       "artists": [
-        "Martin Garrix",
-        "Ti\u00ebsto"
+        {
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix",
+          "genres": [
+            "edm",
+            "electronica",
+            "progressive house"
+          ]
+        },
+        {
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Ti\u00ebsto",
+          "genres": [
+            "edm",
+            "trance",
+            "big room",
+            "house",
+            "dance"
+          ]
+        }
       ],
       "spotify_id": "5wsskBPgW3pw876uCa9JX4"
     },
     {
       "name": "Dragon - Original Mix",
       "artists": [
-        "Martin Garrix",
-        "Matisse & Sadko"
+        {
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix",
+          "genres": [
+            "edm",
+            "electronica",
+            "progressive house"
+          ]
+        },
+        {
+          "id": "2QMCcKIPHnjQaPPgoEst88",
+          "name": "Matisse & Sadko",
+          "genres": [
+            "progressive house",
+            "edm",
+            "big room"
+          ]
+        }
       ],
       "spotify_id": "5RTcqTN4gSFNHrk6gV74mZ"
     },
     {
       "name": "Sugar",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "494OU6M7NOf4ICYb4zWCf5"
     },
     {
       "name": "Sunday Morning",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "4T5cqerbDXueYSVfXkIITo"
     },
     {
       "name": "This Love",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "5zF2zGPkL6Ipsn9AfAK6RP"
     },
     {
       "name": "Don't Wanna Know (feat. Kendrick Lamar)",
       "artists": [
-        "Maroon 5",
-        "Kendrick Lamar"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        },
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "genres": [
+            "hip hop",
+            "west coast hip hop"
+          ]
+        }
       ],
       "spotify_id": "2QbFClFyhMMtiurUjuQlAe"
     },
     {
       "name": "Maps",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "6chdRBWviHlm7JAtwgflBP"
     },
     {
       "name": "Misery",
       "artists": [
-        "Maroon 5"
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "genres": [
+            "pop"
+          ]
+        }
       ],
       "spotify_id": "0RZyUsKfiC7MtiGKatCtGc"
     },
     {
       "name": "Ojal\u00e1 Pudiera Borrarte",
       "artists": [
-        "Man\u00e1"
+        {
+          "id": "7okwEbXzyT2VffBmyQBWLz",
+          "name": "Man\u00e1",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock",
+            "mexican rock",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "35IBanjpZmYVKYUnubJKuB"
     },
     {
       "name": "Bendita Tu Luz",
       "artists": [
-        "Man\u00e1"
+        {
+          "id": "7okwEbXzyT2VffBmyQBWLz",
+          "name": "Man\u00e1",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock",
+            "mexican rock",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5UUJODERmh8Dfu960OJicA"
     },
     {
       "name": "Esta Noche Es Para Amar",
       "artists": [
-        "Luis Fonsi"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "4tS0P3XZfnxYwyFY8BUbA8"
     },
     {
       "name": "Imag\u00edname Sin Ti",
       "artists": [
-        "Luis Fonsi"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "3Ntr2xdlZ17BLt8wX3TmWa"
     },
     {
       "name": "Aqui Estoy Yo",
       "artists": [
-        "Luis Fonsi",
-        "Aleks Syntek",
-        "Noel Schajris",
-        "David Bisbal"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        },
+        {
+          "id": "0r8toju2ecKaVtItkzAnNi",
+          "name": "Aleks Syntek",
+          "genres": [
+            "latin pop",
+            "rock en espa\u00f1ol"
+          ]
+        },
+        {
+          "id": "2uEjXyVi0SA1HPpj3zquXh",
+          "name": "Noel Schajris",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "5gOJTI4TusSENizxhcG7jB",
+          "name": "David Bisbal",
+          "genres": [
+            "latin pop",
+            "villancicos"
+          ]
+        }
       ],
       "spotify_id": "5tDTXWV3B3ixz9YCr3MxNY"
     },
     {
       "name": "Aunque Estes Con El",
       "artists": [
-        "Luis Fonsi"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "7drgr2iYQBTICPjfYM1vd5"
     },
     {
       "name": "Llueve Por Dentro",
       "artists": [
-        "Luis Fonsi"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "72AC5xnRC0X3xZNKuYVA0C"
     },
     {
       "name": "\u00c9chame La Culpa",
       "artists": [
-        "Luis Fonsi",
-        "Demi Lovato"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        },
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "genres": []
+        }
       ],
       "spotify_id": "1zsG4eaZmkA1dvjDDsAGLK"
     },
     {
       "name": "Despacito (Featuring Daddy Yankee)",
       "artists": [
-        "Luis Fonsi",
-        "Daddy Yankee"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        },
+        {
+          "id": "4VMYDCV2IEDYJArk749S6m",
+          "name": "Daddy Yankee",
+          "genres": [
+            "reggaeton",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "4aWmUDTfIPGksMNLV2rQP2"
     },
     {
       "name": "Llegaste T\u00fa",
       "artists": [
-        "Luis Fonsi",
-        "Juan Luis Guerra 4.40"
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi",
+          "genres": [
+            "latin"
+          ]
+        },
+        {
+          "id": "3nlpTZci9O5W8RsNoNH559",
+          "name": "Juan Luis Guerra 4.40",
+          "genres": [
+            "merengue",
+            "bachata",
+            "salsa"
+          ]
+        }
       ],
       "spotify_id": "7cvw9YXDn35Ra6xCrIqVNZ"
     },
     {
       "name": "Tienes La Magia",
       "artists": [
-        "Lil Silvio & El Vega"
+        {
+          "id": "53F3cdrVpYq5iM4iaa6AQ3",
+          "name": "Lil Silvio & El Vega",
+          "genres": [
+            "champeta",
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "3cx2712k0b6hvlJC0q27rL"
     },
     {
       "name": "You And Me",
       "artists": [
-        "Lifehouse"
+        {
+          "id": "5PokPZn11xzZXyXSfnvIM3",
+          "name": "Lifehouse",
+          "genres": [
+            "post-grunge"
+          ]
+        }
       ],
       "spotify_id": "0cfZEZwqwlXlvpbb0jTSVz"
     },
     {
       "name": "No Voy a Verte M\u00e1s",
       "artists": [
-        "Libido"
+        {
+          "id": "7J7btQloI9KSJg0o4e9Fno",
+          "name": "Libido",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock"
+          ]
+        }
       ],
       "spotify_id": "2edoq4ciioEvctDTlPSLGa"
     },
     {
       "name": "En Esta Habitaci\u00f3n",
       "artists": [
-        "Libido"
+        {
+          "id": "7J7btQloI9KSJg0o4e9Fno",
+          "name": "Libido",
+          "genres": [
+            "rock en espa\u00f1ol",
+            "latin rock"
+          ]
+        }
       ],
       "spotify_id": "0JtaEJheisnUfqkI4r8ZLL"
     },
     {
       "name": "Algo M\u00e1s",
       "artists": [
-        "La Quinta Estacion"
+        {
+          "id": "7FZj349hdLfD6qzXkJLuAh",
+          "name": "La Quinta Estacion",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "1TcwFgNVSk901hK4Rwpcsn"
     },
     {
       "name": "Bink's Sake (From \"One Piece\")",
       "artists": [
-        "daigoro789"
+        {
+          "id": "6dOnTTVTbQlFWF6yfD4Vw5",
+          "name": "daigoro789",
+          "genres": []
+        }
       ],
       "spotify_id": "1fNfWoPh0vJVWICJY93FQl"
     },
     {
       "name": "Llorar duele mas",
       "artists": [
-        "Kalimba"
+        {
+          "id": "4RjamFQJNT8nVbTKXJDJgv",
+          "name": "Kalimba",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4a7QzqiM4gFLFgU3VZZZTm"
     },
     {
       "name": "Tocando Fondo",
       "artists": [
-        "Kalimba"
+        {
+          "id": "4RjamFQJNT8nVbTKXJDJgv",
+          "name": "Kalimba",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0SkBQleJuWAmiPo73j0cOs"
     },
     {
       "name": "Fotograf\u00eda",
       "artists": [
-        "Juanes",
-        "Nelly Furtado"
+        {
+          "id": "0UWZUmn7sybxMCqrw9tGa7",
+          "name": "Juanes",
+          "genres": [
+            "latin pop",
+            "colombian pop",
+            "rock en espa\u00f1ol"
+          ]
+        },
+        {
+          "id": "2jw70GZXlAI8QzWeY2bgRc",
+          "name": "Nelly Furtado",
+          "genres": []
+        }
       ],
       "spotify_id": "4j2j3xpRf4tEJx9kRTw0nk"
     },
     {
       "name": "Es Por T\u00ed",
       "artists": [
-        "Juanes"
+        {
+          "id": "0UWZUmn7sybxMCqrw9tGa7",
+          "name": "Juanes",
+          "genres": [
+            "latin pop",
+            "colombian pop",
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "1TUrIxj0I1iBgVzVPZ2A9p"
     },
     {
       "name": "A Dios Le Pido",
       "artists": [
-        "Juanes"
+        {
+          "id": "0UWZUmn7sybxMCqrw9tGa7",
+          "name": "Juanes",
+          "genres": [
+            "latin pop",
+            "colombian pop",
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "7HJKzIgaNgDgo3p3a2ToR6"
     },
     {
       "name": "Me Enamora",
       "artists": [
-        "Juanes"
+        {
+          "id": "0UWZUmn7sybxMCqrw9tGa7",
+          "name": "Juanes",
+          "genres": [
+            "latin pop",
+            "colombian pop",
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "3vUqTMKCNol6l7TUAqaxJ5"
     },
     {
       "name": "Amar y Querer",
       "artists": [
-        "Jos\u00e9 Jos\u00e9"
+        {
+          "id": "4mN0qcMxWX8oToqfDPM5yV",
+          "name": "Jos\u00e9 Jos\u00e9",
+          "genres": [
+            "bolero",
+            "bacardi"
+          ]
+        }
       ],
       "spotify_id": "1FJhxxsnp9JLvMJIHNvGtF"
     },
     {
       "name": "Look What You've Done",
       "artists": [
-        "Jet"
+        {
+          "id": "5ypxebeHEIXjMtJb17uJlI",
+          "name": "Jet",
+          "genres": []
+        }
       ],
       "spotify_id": "0ZSmRnXnP5fdANtVlCok1g"
     },
     {
       "name": "Mi Vida Sin Ti (En Vivo)",
       "artists": [
-        "Jes\u00fas Adri\u00e1n Romero"
+        {
+          "id": "29SeiO68HQHBs7pDdWOvvX",
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "genres": [
+            "christian",
+            "worship"
+          ]
+        }
       ],
       "spotify_id": "27h8dbVJNk6PYzM3JkBtB0"
     },
     {
       "name": "Llorar (feat. Mario Domm)",
       "artists": [
-        "Jesse & Joy",
-        "Mario Domm"
+        {
+          "id": "1mX1TWKpNxDSAH16LgDfiR",
+          "name": "Jesse & Joy",
+          "genres": [
+            "latin pop"
+          ]
+        },
+        {
+          "id": "7tLRDdqaS3HlX9cLbpY3Hl",
+          "name": "Mario Domm",
+          "genres": []
+        }
       ],
       "spotify_id": "7KffKVdLO4P8e4Yx8gDYgw"
     },
     {
       "name": "Me Quiero Enamorar",
       "artists": [
-        "Jesse & Joy"
+        {
+          "id": "1mX1TWKpNxDSAH16LgDfiR",
+          "name": "Jesse & Joy",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "2ae7jtHQeNWdPvs3HZ3kDi"
     },
     {
       "name": "La De La Mala Suerte",
       "artists": [
-        "Jesse & Joy"
+        {
+          "id": "1mX1TWKpNxDSAH16LgDfiR",
+          "name": "Jesse & Joy",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "40qGH4aiVeaFW7qIPCyTVa"
     },
     {
       "name": "\u00a1Corre!",
       "artists": [
-        "Jesse & Joy"
+        {
+          "id": "1mX1TWKpNxDSAH16LgDfiR",
+          "name": "Jesse & Joy",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "name": "No Me Ames (with Marc Anthony) - Tropical Remix",
       "artists": [
-        "Jennifer Lopez",
-        "Marc Anthony"
+        {
+          "id": "2DlGxzQSjYe5N6G9nkYghR",
+          "name": "Jennifer Lopez",
+          "genres": []
+        },
+        {
+          "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+          "name": "Marc Anthony",
+          "genres": [
+            "salsa",
+            "merengue",
+            "bachata",
+            "latin"
+          ]
+        }
       ],
       "spotify_id": "36QO3qL6JvLrqeF0zJVRAe"
     },
     {
       "name": "Heroes Tonight",
       "artists": [
-        "Janji",
-        "Johnning"
+        {
+          "id": "5VXPJC0PNpJbzB10A39G8E",
+          "name": "Janji",
+          "genres": []
+        },
+        {
+          "id": "1yPdXrLhRc50YbwiwCr1uN",
+          "name": "Johnning",
+          "genres": []
+        }
       ],
       "spotify_id": "3SipFlNddvL0XNZRLXvdZD"
     },
     {
       "name": "Mad World - Acoustic Version",
       "artists": [
-        "Hardwell",
-        "Jake Reese"
+        {
+          "id": "6BrvowZBreEkXzJQMpL174",
+          "name": "Hardwell",
+          "genres": [
+            "big room",
+            "edm",
+            "progressive house",
+            "electronica"
+          ]
+        },
+        {
+          "id": "0eBOZ74PcpQb3SisNPgaRQ",
+          "name": "Jake Reese",
+          "genres": []
+        }
       ],
       "spotify_id": "7BRYEE8wi0gye3T5V7zro9"
     },
     {
       "name": "Es Tu Amor",
       "artists": [
-        "Hany Kauam"
+        {
+          "id": "4UgAj7y7v64g81Ujib0YOe",
+          "name": "Hany Kauam",
+          "genres": []
+        }
       ],
       "spotify_id": "2YkFlTIhhJtFJeFVQ4d2CH"
     },
     {
       "name": "Knockin' On Heaven's Door",
       "artists": [
-        "Guns N' Roses"
+        {
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "genres": [
+            "rock",
+            "glam metal",
+            "hard rock",
+            "classic rock"
+          ]
+        }
       ],
       "spotify_id": "7gXdAqJLCa5aYUeLVxosOz"
     },
     {
       "name": "Cuando Se Acaba el Amor",
       "artists": [
-        "Guillermo Davila"
+        {
+          "id": "3ErvPRFbV1erbK7bSqXQvc",
+          "name": "Guillermo Davila",
+          "genres": []
+        }
       ],
       "spotify_id": "25aEGXxteZgKEJbJJxVLjK"
     },
     {
       "name": "Runnin\u2019 Home to You",
       "artists": [
-        "Grant Gustin"
+        {
+          "id": "0MXwnhyYMeEfij4dl2YIQ4",
+          "name": "Grant Gustin",
+          "genres": []
+        }
       ],
       "spotify_id": "7osb1eYuVpKsKJDMe6bodj"
     },
     {
       "name": "Canci\u00f3n de Amor",
       "artists": [
-        "Gian Marco"
+        {
+          "id": "2gDqGAadPIPiA7LtmNn74g",
+          "name": "Gian Marco",
+          "genres": [
+            "colombian pop",
+            "trova",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "6aP2ySgladUWMojsj8SgeJ"
     },
     {
       "name": "Seven Day Mile",
       "artists": [
-        "The Frames"
+        {
+          "id": "6lyku6lhbB3tLc3Dghs5CM",
+          "name": "The Frames",
+          "genres": []
+        }
       ],
       "spotify_id": "2B7V3xMgVXj9aDq8SUR4rF"
     },
     {
       "name": "Cuando Me Enamoro",
       "artists": [
-        "Enrique Iglesias",
-        "Juan Luis Guerra 4.40"
+        {
+          "id": "7qG3b048QCHVRO5Pv1T5lw",
+          "name": "Enrique Iglesias",
+          "genres": [
+            "latin pop",
+            "latin"
+          ]
+        },
+        {
+          "id": "3nlpTZci9O5W8RsNoNH559",
+          "name": "Juan Luis Guerra 4.40",
+          "genres": [
+            "merengue",
+            "bachata",
+            "salsa"
+          ]
+        }
       ],
       "spotify_id": "66ggIz6W6hlmlyezLBZDcn"
     },
     {
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "artists": [
-        "Ellie Goulding"
+        {
+          "id": "0X2BH1fck6amBIoJhDVmmJ",
+          "name": "Ellie Goulding",
+          "genres": []
+        }
       ],
       "spotify_id": "7y2YUIyCuVhBidENVT0068"
     },
     {
       "name": "Time Is Coming",
       "artists": [
-        "The Elected"
+        {
+          "id": "4XlCuR2K45h5RxyxpnyXpB",
+          "name": "The Elected",
+          "genres": []
+        }
       ],
       "spotify_id": "21YD6MPaMY5CUsVYdqcPzD"
     },
     {
       "name": "Shape of You",
       "artists": [
-        "Ed Sheeran"
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "0FE9t6xYkqWXU2ahLh6D8X"
     },
     {
       "name": "Let It Go",
       "artists": [
-        "Demi Lovato"
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "genres": []
+        }
       ],
       "spotify_id": "6s0VW5jUPcDTmqef9hZCKg"
     },
     {
       "name": "No Importa La Distancia",
       "artists": [
-        "David Bisbal"
+        {
+          "id": "5gOJTI4TusSENizxhcG7jB",
+          "name": "David Bisbal",
+          "genres": [
+            "latin pop",
+            "villancicos"
+          ]
+        }
       ],
       "spotify_id": "3xIXnWOw0Od1GWvYBz59d4"
     },
     {
       "name": "Mi Princesa",
       "artists": [
-        "David Bisbal"
+        {
+          "id": "5gOJTI4TusSENizxhcG7jB",
+          "name": "David Bisbal",
+          "genres": [
+            "latin pop",
+            "villancicos"
+          ]
+        }
       ],
       "spotify_id": "5QkhJ1APhxew8pYaj1TXaN"
     },
     {
       "name": "Esta Ausencia",
       "artists": [
-        "David Bisbal"
+        {
+          "id": "5gOJTI4TusSENizxhcG7jB",
+          "name": "David Bisbal",
+          "genres": [
+            "latin pop",
+            "villancicos"
+          ]
+        }
       ],
       "spotify_id": "0wMJbNxNb3myxYoSFIkPx6"
     },
     {
       "name": "D\u00edgale",
       "artists": [
-        "David Bisbal"
+        {
+          "id": "5gOJTI4TusSENizxhcG7jB",
+          "name": "David Bisbal",
+          "genres": [
+            "latin pop",
+            "villancicos"
+          ]
+        }
       ],
       "spotify_id": "3VCxdwomIGHll7EdEK310k"
     },
     {
       "name": "Museum of Flight",
       "artists": [
-        "Damien Jurado"
+        {
+          "id": "79JJCxCCfJ8HufX6w8q2k4",
+          "name": "Damien Jurado",
+          "genres": [
+            "indie folk"
+          ]
+        }
       ],
       "spotify_id": "3jPiv3uw7BUSkhdOuxUxkq"
     },
     {
       "name": "Accidentally In Love",
       "artists": [
-        "Counting Crows"
+        {
+          "id": "0vEsuISMWAKNctLlUAhSZC",
+          "name": "Counting Crows",
+          "genres": []
+        }
       ],
       "spotify_id": "4FXdIM78OBdw7KIY2jeM8D"
     },
     {
       "name": "Esp\u00e9rame en El Tren",
       "artists": [
-        "Christian Meier"
+        {
+          "id": "3OgfCHk8YwaZ7NjQHbL4f3",
+          "name": "Christian Meier",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "5rT7BZttP7kPxoxcgvpho8"
     },
     {
       "name": "Qu\u00e9date",
       "artists": [
-        "Christian Meier"
+        {
+          "id": "3OgfCHk8YwaZ7NjQHbL4f3",
+          "name": "Christian Meier",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "3KNox3diwQY5TLWNPeyduG"
     },
     {
       "name": "Carreteras Mojadas",
       "artists": [
-        "Christian Meier"
+        {
+          "id": "3OgfCHk8YwaZ7NjQHbL4f3",
+          "name": "Christian Meier",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "0MMgMBAKlMZNtHlprzHkTX"
     },
     {
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "artists": [
-        "C\u00e9line Dion"
+        {
+          "id": "4S9EykWXhStSc15wEx8QFK",
+          "name": "C\u00e9line Dion",
+          "genres": [
+            "vari\u00e9t\u00e9 fran\u00e7aise"
+          ]
+        }
       ],
       "spotify_id": "4Dw02sVUfUA67l3fZ9FoKs"
     },
     {
       "name": "La Bicicleta",
       "artists": [
-        "Carlos Vives",
-        "Shakira"
+        {
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "genres": [
+            "colombian pop",
+            "vallenato",
+            "latin",
+            "latin pop"
+          ]
+        },
+        {
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "0sXvAOmXgjR2QUqLK1MltU"
     },
     {
       "name": "S\u00f3lo T\u00fa",
       "artists": [
-        "Carlos Rivera"
+        {
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "4BjNY78GRkjyXFjhhcJ7oq"
     },
     {
       "name": "Fascinaci\u00f3n",
       "artists": [
-        "Carlos Rivera"
+        {
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "7cxscPL2rnocwthwRMDZks"
     },
     {
       "name": "Borrar y Continuar",
       "artists": [
-        "Carlos Rivera"
+        {
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "1T9DOBjsKquxDiTRLkTNRj"
     },
     {
       "name": "Recu\u00e9rdame",
       "artists": [
-        "Carlos Rivera"
+        {
+          "id": "39yVoqm6sYFvvqF1RciUVf",
+          "name": "Carlos Rivera",
+          "genres": [
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5KRtjHNq9aKWvE7wTMvdM9"
     },
     {
       "name": "The Lazy Song",
       "artists": [
-        "Bruno Mars"
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "genres": []
+        }
       ],
       "spotify_id": "386RUes7n1uM1yfzgeUuwp"
     },
     {
       "name": "Ain't No Reason",
       "artists": [
-        "Brett Dennen"
+        {
+          "id": "0FC1LIeQXKib0jOwZqeIwT",
+          "name": "Brett Dennen",
+          "genres": []
+        }
       ],
       "spotify_id": "0FSaq4WfIJ8RbG2Li1JD5B"
     },
     {
       "name": "Heaven (feat. Megan Nicole)",
       "artists": [
-        "Boyce Avenue",
-        "Megan Nicole"
+        {
+          "id": "7CQwac16i1W5ej8YpuL3dv",
+          "name": "Boyce Avenue",
+          "genres": [
+            "acoustic pop"
+          ]
+        },
+        {
+          "id": "3OiVNeHkjQfnikmcBXbplT",
+          "name": "Megan Nicole",
+          "genres": []
+        }
       ],
       "spotify_id": "755WE9qLMDJFlVfci5suzT"
     },
     {
       "name": "You Give Love A Bad Name",
       "artists": [
-        "Bon Jovi"
+        {
+          "id": "58lV9VcRSjABbAbfWS6skp",
+          "name": "Bon Jovi",
+          "genres": [
+            "glam metal",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "5VVwwfK6Cp9IydkhKfJUEq"
     },
     {
       "name": "Always",
       "artists": [
-        "Bon Jovi"
+        {
+          "id": "58lV9VcRSjABbAbfWS6skp",
+          "name": "Bon Jovi",
+          "genres": [
+            "glam metal",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "0kish3Tobj6Wq0we74343q"
     },
     {
       "name": "Un Osito Dormil\u00f3n",
       "artists": [
-        "Binomio de Oro de Am\u00e9rica"
+        {
+          "id": "3yHLsTJ9OZ19qwY1Q5BEQJ",
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "genres": [
+            "vallenato"
+          ]
+        }
       ],
       "spotify_id": "0HPVcdtXABd0hUudn4UceE"
     },
     {
       "name": "Hoy Es Hoy",
       "artists": [
-        "Axel Witteveen"
+        {
+          "id": "0il86oS73LDWKEE1zls70h",
+          "name": "Axel Witteveen",
+          "genres": []
+        }
       ],
       "spotify_id": "4bfNdGUkX1MaSoXZWI3Wdu"
     },
     {
       "name": "The Days",
       "artists": [
-        "Avicii"
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "genres": [
+            "edm"
+          ]
+        }
       ],
       "spotify_id": "7HW01sQy5UOxyezzZg98nd"
     },
     {
       "name": "Mil Horas",
       "artists": [
-        "Andr\u00e9s Calamaro"
+        {
+          "id": "1NLy01lQ3IWiqdzH33TSAB",
+          "name": "Andr\u00e9s Calamaro",
+          "genres": []
+        }
       ],
       "spotify_id": "5RIypaRRQFO7tizTuK4iuU"
     },
     {
       "name": "Simplemente Amigos",
       "artists": [
-        "Ana Gabriel"
+        {
+          "id": "41ESHLayJ5sDKjAOv6cMhe",
+          "name": "Ana Gabriel",
+          "genres": [
+            "mariachi",
+            "ranchera"
+          ]
+        }
       ],
       "spotify_id": "2w3hRh03IPv1ueQ15V1XU3"
     },
     {
       "name": "Decir adi\u00f3s",
       "artists": [
-        "Am\u00e9n"
+        {
+          "id": "4OgbQT8E2mFbXTJAYIUFTp",
+          "name": "Am\u00e9n",
+          "genres": [
+            "rock en espa\u00f1ol"
+          ]
+        }
       ],
       "spotify_id": "1pOwXQfll2IWb9GTaRQT2V"
     },
     {
       "name": "Amor sincero",
       "artists": [
-        "Alexander Acha"
+        {
+          "id": "3JkgQ8Jjwt2mkeOsg5yhqh",
+          "name": "Alexander Acha",
+          "genres": [
+            "cumbia"
+          ]
+        }
       ],
       "spotify_id": "0cYK6jIyy3aqIN5LLAMk9q"
     },
     {
       "name": "Bendita mujercita.",
       "artists": [
-        "Alex Campos"
+        {
+          "id": "6slyJwua5e5GuhuP82sTHR",
+          "name": "Alex Campos",
+          "genres": [
+            "christian",
+            "worship"
+          ]
+        }
       ],
       "spotify_id": "1nwTX5ZlilaCru7qSxPY2U"
     },
     {
       "name": "Cool",
       "artists": [
-        "Alesso",
-        "Roy English"
+        {
+          "id": "4AVFqumd2ogHFlRbKIjp1t",
+          "name": "Alesso",
+          "genres": [
+            "edm"
+          ]
+        },
+        {
+          "id": "1m42JiZ7Rv8D7Lc7FTSWAR",
+          "name": "Roy English",
+          "genres": []
+        }
       ],
       "spotify_id": "7vhOZ7D4z03Y0tYkxFAG15"
     },
     {
       "name": "Sorry, Blame It On Me",
       "artists": [
-        "Akon"
+        {
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "genres": []
+        }
       ],
       "spotify_id": "6m5jURnwGHY1pVw0sJqBBq"
     },
     {
       "name": "Beautiful",
       "artists": [
-        "Akon",
-        "Colby O'Donis",
-        "Kardinal Offishall"
+        {
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "genres": []
+        },
+        {
+          "id": "7fObcBw9VM3x7ntWKCYl0z",
+          "name": "Colby O'Donis",
+          "genres": []
+        },
+        {
+          "id": "5P2rwRBgIN450RaJxdjYdA",
+          "name": "Kardinal Offishall",
+          "genres": []
+        }
       ],
       "spotify_id": "4rqR0yM2k41leqyErhNzTs"
     },
     {
       "name": "Smack That",
       "artists": [
-        "Akon",
-        "Eminem"
+        {
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "genres": []
+        },
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "genres": [
+            "rap",
+            "hip hop"
+          ]
+        }
       ],
       "spotify_id": "3qKGvSu1inEZKwYQnMavNA"
     },
     {
       "name": "Right Now (Na Na Na)",
       "artists": [
-        "Akon"
+        {
+          "id": "0z4gvV4rjIZ9wHck67ucSV",
+          "name": "Akon",
+          "genres": []
+        }
       ],
       "spotify_id": "6cj8s9tWTahcd0XmnM2tVj"
     },
     {
       "name": "Por Mil Noches",
       "artists": [
-        "Airbag"
+        {
+          "id": "1wKDGglKV4FsFS85r2Dmpr",
+          "name": "Airbag",
+          "genres": [
+            "argentine rock"
+          ]
+        }
       ],
       "spotify_id": "10zSgbysU2KyVTrcRmtu62"
     },
     {
       "name": "Cryin'",
       "artists": [
-        "Aerosmith"
+        {
+          "id": "7Ey4PD4MYsKc5I2dolUwbH",
+          "name": "Aerosmith",
+          "genres": [
+            "classic rock",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "3Yls95V4qCzVfR20gr8cOW"
     },
     {
       "name": "Crazy",
       "artists": [
-        "Aerosmith"
+        {
+          "id": "7Ey4PD4MYsKc5I2dolUwbH",
+          "name": "Aerosmith",
+          "genres": [
+            "classic rock",
+            "rock"
+          ]
+        }
       ],
       "spotify_id": "2cBGl1Ehr1D9xbqNmraqb4"
     },
     {
       "name": "Love in the Dark",
       "artists": [
-        "Adele"
+        {
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "6oQRvWaoFDJpTTnaWdzhXt"
     },
     {
       "name": "Hello",
       "artists": [
-        "Adele"
+        {
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "0ENSn4fwAbCGeFGVUbXEU3"
     },
     {
       "name": "Someone Like You",
       "artists": [
-        "Adele"
+        {
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "genres": [
+            "soft pop"
+          ]
+        }
       ],
       "spotify_id": "4kflIGfjdZJW4ot2ioixTB"
     },
     {
       "name": "Ma\u00f1ana Es Para Siempre",
       "artists": [
-        "Alejandro Fern\u00e1ndez"
+        {
+          "id": "6sq1yF0OZEWA4xoXVKW1L9",
+          "name": "Alejandro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+          ]
+        }
       ],
       "spotify_id": "4upMXPYMNj7BtI73LcelNR"
     },
     {
       "name": "Quiero Que Vuelvas",
       "artists": [
-        "Alejandro Fern\u00e1ndez"
+        {
+          "id": "6sq1yF0OZEWA4xoXVKW1L9",
+          "name": "Alejandro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+          ]
+        }
       ],
       "spotify_id": "2Zw7rSucHm0MIph9gmNiSn"
     },
     {
       "name": "Hoy Tengo Ganas De Ti",
       "artists": [
-        "Alejandro Fern\u00e1ndez",
-        "Christina Aguilera"
+        {
+          "id": "6sq1yF0OZEWA4xoXVKW1L9",
+          "name": "Alejandro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+          ]
+        },
+        {
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+          "name": "Christina Aguilera",
+          "genres": []
+        }
       ],
       "spotify_id": "6QMgs72iwsAuEPobHbH8Jf"
     },
     {
       "name": "Me Hace Tanto Bien",
       "artists": [
-        "Alejandro Fern\u00e1ndez"
+        {
+          "id": "6sq1yF0OZEWA4xoXVKW1L9",
+          "name": "Alejandro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+          ]
+        }
       ],
       "spotify_id": "4TEYKFb5cMqEnCjwvpQusb"
     },
     {
       "name": "S\u00e9 Que Te Duele",
       "artists": [
-        "Alejandro Fern\u00e1ndez",
-        "Morat"
+        {
+          "id": "6sq1yF0OZEWA4xoXVKW1L9",
+          "name": "Alejandro Fern\u00e1ndez",
+          "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+          ]
+        },
+        {
+          "id": "5C4PDR4LnhZTbVnKWXuDKD",
+          "name": "Morat",
+          "genres": [
+            "colombian pop",
+            "latin pop"
+          ]
+        }
       ],
       "spotify_id": "5vZfgeDfNhlkKeJqjzSAmg"
     }

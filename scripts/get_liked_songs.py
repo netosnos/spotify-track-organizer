@@ -6,6 +6,7 @@ import json
 import os
 from datetime import datetime
 from src.spotify.liked_songs import get_all_liked_songs, extract_song_details
+from src.spotify.client import SpotifyClient
 
 def save_songs_to_json(songs: list, filename: str):
     """
@@ -47,15 +48,37 @@ def main():
     raw_songs = get_all_liked_songs()
     print(f"Found {len(raw_songs)} liked songs")
     
-    # Extract relevant details
-    songs = [extract_song_details(song) for song in raw_songs]
+    # Extract all unique artist IDs
+    artist_ids = set()
+    for song in raw_songs:
+        for artist in song['track']['artists']:
+            artist_ids.add(artist['id'])
+    
+    print(f"\nFound {len(artist_ids)} unique artists")
+    
+    # Fetch genres for all artists
+    print("\nFetching artist genres...")
+    client = SpotifyClient()
+    genres_by_artist = client.get_artists_genres(list(artist_ids))
+    
+    # Count artists with and without genres
+    artists_with_genres = sum(1 for genres in genres_by_artist.values() if genres)
+    artists_without_genres = len(genres_by_artist) - artists_with_genres
+    
+    print(f"\nGenre fetching complete:")
+    print(f"- Artists with genres: {artists_with_genres}")
+    print(f"- Artists without genres: {artists_without_genres}")
+    
+    # Extract relevant details with genres
+    print("\nProcessing songs...")
+    songs = [extract_song_details(song, genres_by_artist) for song in raw_songs]
     
     # Use fixed filename
     filename = 'data/raw/liked_songs.json'
     
     # Save to file
     save_songs_to_json(songs, filename)
-    print(f"Saved {len(songs)} songs to {filename}")
+    print(f"\nSaved {len(songs)} songs to {filename}")
 
 if __name__ == '__main__':
     main() 
