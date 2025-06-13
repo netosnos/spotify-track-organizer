@@ -144,7 +144,8 @@ def main():
     if tracks_without_ids:
         print("\nTracks without RaccoonBeats IDs:")
         for track in tracks_without_ids[:5]:  # Show first 5 only
-            print(f"- {track['name']} by {', '.join(track['artists'])}")
+            artist_names = [artist['name'] if isinstance(artist, dict) else artist for artist in track['artists']]
+            print(f"- {track['name']} by {', '.join(artist_names)}")
         if len(tracks_without_ids) > 5:
             print(f"... and {len(tracks_without_ids) - 5} more")
     

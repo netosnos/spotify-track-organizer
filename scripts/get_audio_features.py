@@ -70,7 +70,8 @@ def get_audio_features(tracks: list) -> tuple:
                 estimated_remaining_time = time_per_track * remaining_tracks
                 
                 print(f"\nProgress: {processed_count}/{total_tracks} tracks ({(processed_count/total_tracks)*100:.1f}%)")
-                print(f"Current track: {track_name} by {', '.join(artists)}")
+                artist_names = [artist['name'] if isinstance(artist, dict) else artist for artist in artists]
+                print(f"Current track: {track_name} by {', '.join(artist_names)}")
                 print(f"Time elapsed: {format_time(elapsed_time)}")
                 print(f"Estimated time remaining: {format_time(estimated_remaining_time)}")
                 print(f"Average time per track: {time_per_track:.1f} seconds")
@@ -161,7 +162,8 @@ def main():
         if tracks_without_features:
             print("\nTracks without audio features:")
             for track in tracks_without_features[:5]:  # Show first 5 only
-                print(f"- {track['name']} by {', '.join(track['artists'])}")
+                artist_names = [artist['name'] if isinstance(artist, dict) else artist for artist in track['artists']]
+                print(f"- {track['name']} by {', '.join(artist_names)}")
             if len(tracks_without_features) > 5:
                 print(f"... and {len(tracks_without_features) - 5} more")
         
