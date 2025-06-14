@@ -44,6 +44,7 @@ This project helps you organize your Spotify liked songs into mood-based playlis
      ```
      SPOTIFY_CLIENT_ID=your_client_id_here
      SPOTIFY_CLIENT_SECRET=your_client_secret_here
+     SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
      ```
 
 5. **Create a Virtual Environment:**
