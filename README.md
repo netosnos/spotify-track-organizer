@@ -19,20 +19,26 @@ This project helps you organize your Spotify liked songs into mood-based playlis
 
 ## Setup
 
-1. **Create a Spotify Developer Account**
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/netosnos/spotify-track-organizer.git
+   cd spotify-track-organizer
+   ```
+
+2. **Create a Spotify Developer Account:**
    - Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
    - Log in with your Spotify account
    - Click "Create App"
    - Fill in the app details (name, description, etc.)
    - Add `http://localhost:8888/callback` as a Redirect URI in your app settings
 
-2. **Get Your API Credentials**
+3. **Get Your API Credentials:**
    - In your app's dashboard, you'll find:
      - Client ID
      - Client Secret
    - Keep these credentials secure and never share them
 
-3. **Set Up Environment Variables**
+4. **Set Up Environment Variables:**
    - Create a `.env` file in the project root
    - Add your credentials:
      ```
@@ -40,7 +46,22 @@ This project helps you organize your Spotify liked songs into mood-based playlis
      SPOTIFY_CLIENT_SECRET=your_client_secret_here
      ```
 
-4. **Install Dependencies**
+5. **Create a Virtual Environment:**
+   ```bash
+   python3 -m venv venv
+   ```
+
+6. **Activate the Virtual Environment:**
+   - On macOS and Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+
+7. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
@@ -49,31 +70,31 @@ This project helps you organize your Spotify liked songs into mood-based playlis
 
 The project processes your Spotify liked songs through several steps. Run the scripts in this order:
 
-1. **Get Liked Songs**
+1. **Fetch Liked Songs:**
    ```bash
-   python scripts/get_liked_songs.py
+   python3 src/scripts/get_liked_songs.py
    ```
    - This will fetch all your liked songs and save them to `data/raw/liked_songs.json`
    - You'll need to authenticate with Spotify when prompted
 
-2. **Get Raccobeats IDs**
+2. **Get Audio Features:**
    ```bash
-   python scripts/get_raccobeats_ids.py
+   python3 src/scripts/get_audio_features.py
+   ```
+   - Fetches audio features for your tracks
+   - Saves them to `data/processed/tracks_with_audio_features.json`
+
+3. **Get RaccoonBeats IDs:**
+   ```bash
+   python3 src/scripts/get_reccobeats_ids.py
    ```
    - Processes your liked songs and splits them into two files:
      - `data/processed/tracks_with_raccobeats_ids.json`
      - `data/processed/tracks_without_raccobeats_ids.json`
 
-3. **Get Audio Features**
+4. **Create Playlists:**
    ```bash
-   python scripts/get_audio_features.py
-   ```
-   - Fetches audio features for your tracks
-   - Saves them to `data/processed/tracks_with_audio_features.json`
-
-4. **Create Playlists**
-   ```bash
-   python scripts/create_playlists.py
+   python3 src/scripts/create_playlists.py
    ```
    - Creates and populates your playlists based on the analysis
    - By default, runs in dry-run mode (doesn't create playlists)
