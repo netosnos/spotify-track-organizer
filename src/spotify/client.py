@@ -78,7 +78,7 @@ class SpotifyClient:
                 break
         
         print(f"\nTotal songs retrieved: {len(all_songs)}")
-        return all_songs
+        return all_songs 
 
     def get_artists_genres(self, artist_ids: List[str]) -> Dict[str, List[str]]:
         """
